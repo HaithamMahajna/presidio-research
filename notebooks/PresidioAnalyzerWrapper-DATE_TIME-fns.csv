@@ -1,0 +1,44 @@
+,error_type,annotation,prediction,token,full_text,sample_id,0
+0,FN,DATE_TIME,O,11:34:35,"When: 2000-04-16 11:34:35
+Where: UPTON SCUDAMORE Country Club.",,
+1,FN,DATE_TIME,O,12:20:39,"Date: 1978-04-13 12:20:39
+Name: Toshimi Arata
+Phone: 0490 75 40 81",,
+2,FN,DATE_TIME,O,12:13:52,"Date: 2003-08-28 12:13:52
+Name: Sieda Batukayev
+Phone: (99) 645-791",,
+3,FN,DATE_TIME,O,07:04:41,"When: 1992-11-12 07:04:41
+Where: Unionville (Orange) Country Club.",,
+4,FN,DATE_TIME,O,04:34:22,"Date: 2015-12-22 04:34:22
+Name: Åsa Laine
+Phone: 083 564 9312",,
+5,FN,DATE_TIME,O,22:49:16,"When: 1971-09-07 22:49:16
+Where: Erwetegem Country Club.",,
+6,FN,DATE_TIME,O,14:11:22,"Date: 2020-06-20 14:11:22
+Name: Kamila Červinková
+Phone: 451 5986",,
+7,FN,DATE_TIME,O,18:19:22,"When: 2005-07-21 18:19:22
+Where: Novo mesto Country Club.",,
+8,FN,DATE_TIME,O,15:25:53,"When: 1984-04-27 15:25:53
+Where: Beerze Country Club.",,
+9,FN,DATE_TIME,O,23:08:55,"On 2007-01-17 23:08:55, the Spanish government formally began the process of withdrawal by invoking Article 50 of the Treaty on European Union",,
+10,FN,DATE_TIME,O,19:49:46,"Date: 1980-07-28 19:49:46
+Name: Emilie Broberg
+Phone: 72 128 827",,
+11,FN,DATE_TIME,O,00:46:43,"Date: 2012-10-01 00:46:43
+Name: Victoria Bruun
+Phone: (72) 754-186",,
+12,FN,DATE_TIME,O,03:07:43,"On 2018-01-14 03:07:43, the Russian government formally began the process of withdrawal by invoking Article 50 of the Treaty on European Union",,
+13,FN,DATE_TIME,O,09:34:31,"On 1970-09-24 09:34:31, the Italian government formally began the process of withdrawal by invoking Article 50 of the Treaty on European Union",,
+14,FN,DATE_TIME,O,12:45:18,"On 2018-02-24 12:45:18, the Russian government formally began the process of withdrawal by invoking Article 50 of the Treaty on European Union",,
+15,FN,DATE_TIME,O,22:50:23,"Date: 1985-11-18 22:50:23
+Name: Leigha Mackay
+Phone: 032 288 79 44",,
+16,FN,DATE_TIME,O,07:00:28,"When: 1978-07-13 07:00:28
+Where: Kuncsorba Country Club.",,
+17,FN,DATE_TIME,O,20:21:24,"Date: 1970-09-29 20:21:24
+Name: Sieuwerd Heuver
+Phone: 0496 46 46 70",,
+18,FN,DATE_TIME,O,20:15:24,"Date: 1992-02-08 20:15:24
+Name: Chise T. Horiguchi
+Phone: 0378 3549890",,

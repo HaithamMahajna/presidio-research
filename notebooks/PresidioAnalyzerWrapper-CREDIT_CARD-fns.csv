@@ -1,0 +1,43 @@
+,error_type,annotation,prediction,token,full_text,sample_id,0
+0,FN,CREDIT_CARD,O,4131034282458809939,My card 4131034282458809939 is expiring this month. Please let me know process to it's extend validity.,,
+1,FN,CREDIT_CARD,O,630427373398,"card number 630427373398 is lost, can you please send a new one to 1987 74 Diakou Street
+ Suite 680
+ Kissousa
+ Cyprus 36903? I am in ΛΕΥΚΩΣΙΑ for a business trip",,
+2,FN,CREDIT_CARD,O,2623322164608847,Need to change billing date of my card 2623322164608847,,
+3,FN,CREDIT_CARD,O,213176828496175,Can I withdraw cash using my card 213176828496175 at aTM center ?,,
+4,FN,CREDIT_CARD,O,213164126086955,"card number 213164126086955 is lost, can you please send a new one to 05405 Wesselényi u. 94.
+ Suite 741
+ Öntésmajor
+ Hungary 18695? I am in Rohod for a business trip",,
+5,FN,CREDIT_CARD,O,213161594239298,"Please update the billing address with 0912 P.O. Box 287 Apt. 051, Tallinn, Estonia for this card: 213161594239298",,
+6,FN,CREDIT_CARD,O,501864667909,What is the limit for card 501864667909?,,
+7,FN,CREDIT_CARD,O,4064557646766436702,My card 4064557646766436702 is expiring this month. Please let me know process to it's extend validity.,,
+8,FN,CREDIT_CARD,O,4030874397740603788,My card 4030874397740603788 is expiring this month. Please let me know process to it's extend validity.,,
+9,FN,CREDIT_CARD,O,2297051310616322,I want to increase limit on my card # 2297051310616322 for certain duration of time. is it possible?,,
+10,FN,CREDIT_CARD,O,675984103431,"Could you please email me the statement for last month , my credit card number is 675984103431?",,
+11,FN,CREDIT_CARD,O,503802053770,Could you please send me the last billed amount for cc 503802053770 on my e-mail MagdaLundberg@teleworm.us?,,
+12,FN,CREDIT_CARD,O,2308667275322437,"My credit card 2308667275322437 has been lost, Can I request you to block it.",,
+13,FN,CREDIT_CARD,O,587428561654,What is procedure to redeem points won on credit card 587428561654 transactions ?,,
+14,FN,CREDIT_CARD,O,4415101282806639538,Please block card no 4415101282806639538,,
+15,FN,CREDIT_CARD,O,213173282369527,What is the limit for card 213173282369527?,,
+16,FN,CREDIT_CARD,O,2395286334599325,"card number 2395286334599325 is lost, can you please send a new one to the corner of Kuusiku 7 and Alexander Flat? I am in Hirvli for a business trip",,
+17,FN,CREDIT_CARD,O,584528792610,What is the limit for card 584528792610?,,
+18,FN,CREDIT_CARD,O,503867297114,Need to change billing date of my card 503867297114,,
+19,FN,CREDIT_CARD,O,4152488713445952355,Please charge my credit card. Number is 4152488713445952355,,
+20,FN,CREDIT_CARD,O,2307733725847513,Need to see last 10 transaction of card 2307733725847513,,
+21,FN,CREDIT_CARD,O,213175197796454,Please block card no 213175197796454,,
+22,FN,CREDIT_CARD,O,676222165679,"Please update the billing address with 4241 Steinfelden 73
+SAVONLINNA
+, SV
+ 77233 for this card: 676222165679",,
+23,FN,CREDIT_CARD,O,4393889199179061388,"Please update the billing address with 05575 Feldstrasse 42 Suite 055
+PADASJOKI
+, PA
+ 31842 for this card: 4393889199179061388",,
+24,FN,CREDIT_CARD,O,2720418695252980,What is the limit for card 2720418695252980?,,
+25,FN,CREDIT_CARD,O,4735615260219382870,I have lost my card 4735615260219382870. Could you please block my credit card ASAP ? My name is Lisa Wirtz.,,
+26,FN,CREDIT_CARD,O,503890547220,I want to increase limit on my card # 503890547220 for certain duration of time. is it possible?,,
+27,FN,CREDIT_CARD,O,4273468222888969924,Need to change billing date of my card 4273468222888969924,,
+28,FN,CREDIT_CARD,O,4933870304038678414,"card number 4933870304038678414 is lost, can you please send a new one to USNS Sekerková
+FPO AA 65728? I am in Akureyri for a business trip",,

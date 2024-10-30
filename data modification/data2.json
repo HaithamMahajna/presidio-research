@@ -1,0 +1,38 @@
+[
+{
+    "full_text": "89200-3325 schools are next in line for education reform pilot program. Mobility team, prepare accordingly!",
+    "masked": "[ZIPCODE] schools are next in line for education reform pilot program. [JOBAREA] team, prepare accordingly!",
+    "spans": [
+        {
+            "entity_type": "ZIPCODE",
+            "entity_value": "89200-3325",
+            "start_position": 0,
+            "end_position": 10
+        },
+        {
+            "entity_type": "JOBAREA",
+            "entity_value": "Mobility",
+            "start_position": 72,
+            "end_position": 80
+        }
+    ]
+},
+{
+    "full_text": "Jessyca, you should compare our performance to the industry averages. This includes leads, conversion rates, bounce rates, page views, average spend per customer, and customer acquisition costs. Send a report to Roosevelt_Kshlerin@yahoo.com.",
+    "masked": "[FIRSTNAME], you should compare our performance to the industry averages. This includes leads, conversion rates, bounce rates, page views, average spend per customer, and customer acquisition costs. Send a report to [EMAIL].",
+    "spans": [
+        {
+            "entity_type": "FIRSTNAME",
+            "entity_value": "Jessyca",
+            "start_position": 0,
+            "end_position": 7
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "Roosevelt_Kshlerin@yahoo.com",
+            "start_position": 212,
+            "end_position": 240
+        }
+    ]
+}
+]

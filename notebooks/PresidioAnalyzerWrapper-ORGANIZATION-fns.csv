@@ -1,0 +1,715 @@
+,error_type,annotation,prediction,token,full_text,sample_id,0
+0,FN,ORGANIZATION,O,Persint,"The address of Persint is 6750 Koskikatu 25 Apt. 864
+Artilleros
+, CO
+ Uruguay 64677",,
+1,FN,ORGANIZATION,O,Exversion,"The Exversion Orchestra was founded in 1977. Since then, it has grown from a volunteer community orchestra to a fully professional orchestra serving Southern Tunisia",,
+2,FN,ORGANIZATION,O,Microbilt,"Microbilt Corporation is the brainchild of our 3 founders: Kónya, Becker and Vasquez.  The idea was born (on the beach) while they were constructing a website to be the basis of another start-up idea.",,
+3,FN,ORGANIZATION,O,Corporation,"Microbilt Corporation is the brainchild of our 3 founders: Kónya, Becker and Vasquez.  The idea was born (on the beach) while they were constructing a website to be the basis of another start-up idea.",,
+4,FN,ORGANIZATION,O,Verdafero,"Verdafero is the brainchild of our 3 founders: Eklund, Michael and Hodge.  The idea was born (on the beach) while they were constructing a website to be the basis of another start-up idea.",,
+5,FN,ORGANIZATION,O,Propublica,The Propublica office is at Růžena and Király u. 15.,,
+6,FN,ORGANIZATION,O,Mayo,"During 1971, Mayo-Walters invested heavily in new microprocessor designs fostering the rapid growth of the computer industry.",,
+7,FN,ORGANIZATION,O,Walters,"During 1971, Mayo-Walters invested heavily in new microprocessor designs fostering the rapid growth of the computer industry.",,
+8,FN,ORGANIZATION,O,Williamson,"The Davis, Reynolds and Williamson Orchestra was founded in 1977. Since then, it has grown from a volunteer community orchestra to a fully professional orchestra serving Southern Italy",,
+9,FN,ORGANIZATION,O,Aunt,I work for Aunt Bertha Inc,,
+10,FN,ORGANIZATION,O,Bertha,I work for Aunt Bertha Inc,,
+11,FN,ORGANIZATION,O,Hawkins,"Tomomi is from Hawkins, Richardson and Santana",,
+12,FN,ORGANIZATION,O,Richardson,"Tomomi is from Hawkins, Richardson and Santana",,
+13,FN,ORGANIZATION,O,Capital,Hanne I. Kreutzmann from Can Capital is the keynote speaker,,
+14,FN,ORGANIZATION,O,Rivas,"Alvir spent a year at Weeks-Rivas as the assistant to Alvir D. Pušaver, and the following year at Healthpocket Inc in SCHLAGLES, which later became Credit Karma in 1980.",,
+15,FN,ORGANIZATION,O,Healthpocket,"Alvir spent a year at Weeks-Rivas as the assistant to Alvir D. Pušaver, and the following year at Healthpocket Inc in SCHLAGLES, which later became Credit Karma in 1980.",,
+16,FN,ORGANIZATION,O,Credit,"Alvir spent a year at Weeks-Rivas as the assistant to Alvir D. Pušaver, and the following year at Healthpocket Inc in SCHLAGLES, which later became Credit Karma in 1980.",,
+17,FN,ORGANIZATION,O,Karma,"Alvir spent a year at Weeks-Rivas as the assistant to Alvir D. Pušaver, and the following year at Healthpocket Inc in SCHLAGLES, which later became Credit Karma in 1980.",,
+18,FN,ORGANIZATION,O,Compliance,"The address of Compliance And Risks is 9554 62 Rue Gafsa Apt. 981
+Toronto
+, ON
+ 82269",,
+19,FN,ORGANIZATION,O,Risks,"The address of Compliance And Risks is 9554 62 Rue Gafsa Apt. 981
+Toronto
+, ON
+ 82269",,
+20,FN,ORGANIZATION,O,White,"""The big three"" of The Big Three Killed My Baby are the car manufacturers that dominate the economy of the White Stripes' home city Villafranca del Cid: White, Willis and Hoffman, Lucid and Loveland Technologies. ""Don't feed me planned obsolescence,"" says Liisa Lepistö in an uncharacteristically political song, lamenting the demise of the unions in the 60s.",,
+21,FN,ORGANIZATION,O,Lucid,"""The big three"" of The Big Three Killed My Baby are the car manufacturers that dominate the economy of the White Stripes' home city Villafranca del Cid: White, Willis and Hoffman, Lucid and Loveland Technologies. ""Don't feed me planned obsolescence,"" says Liisa Lepistö in an uncharacteristically political song, lamenting the demise of the unions in the 60s.",,
+22,FN,ORGANIZATION,O,Loveland,"""The big three"" of The Big Three Killed My Baby are the car manufacturers that dominate the economy of the White Stripes' home city Villafranca del Cid: White, Willis and Hoffman, Lucid and Loveland Technologies. ""Don't feed me planned obsolescence,"" says Liisa Lepistö in an uncharacteristically political song, lamenting the demise of the unions in the 60s.",,
+23,FN,ORGANIZATION,O,Technologies,"""The big three"" of The Big Three Killed My Baby are the car manufacturers that dominate the economy of the White Stripes' home city Villafranca del Cid: White, Willis and Hoffman, Lucid and Loveland Technologies. ""Don't feed me planned obsolescence,"" says Liisa Lepistö in an uncharacteristically political song, lamenting the demise of the unions in the 60s.",,
+24,FN,ORGANIZATION,O,Peerj,The address of Peerj is 9721 Dalmatinova 43 Apt. 678 Velenje nan,,
+25,FN,ORGANIZATION,O,Social,"The Social Health Insights Orchestra was founded in 2002. Since then, it has grown from a volunteer community orchestra to a fully professional orchestra serving Southern Austria",,
+26,FN,ORGANIZATION,O,Health,"The Social Health Insights Orchestra was founded in 2002. Since then, it has grown from a volunteer community orchestra to a fully professional orchestra serving Southern Austria",,
+27,FN,ORGANIZATION,O,Insights,"The Social Health Insights Orchestra was founded in 2002. Since then, it has grown from a volunteer community orchestra to a fully professional orchestra serving Southern Austria",,
+28,FN,ORGANIZATION,O,Factset,Energetic and driven salesperson with 8+ years of professional experience in inbound and outbound sales. Awarded Salesperson of the Month three times. Helped increase inbound sales by 16% within the first year of employment. Looking to support Factset in Bjert 6091 in its mission to become a market-leading solution.,,
+29,FN,ORGANIZATION,O,Allstate,"Asya spent a year at Allstate Insurance Group as the assistant to Asya Godina, and the following year at Balefire Global in Amsterdam, which later became Zillow in 2014.",,
+30,FN,ORGANIZATION,O,Insurance,"Asya spent a year at Allstate Insurance Group as the assistant to Asya Godina, and the following year at Balefire Global in Amsterdam, which later became Zillow in 2014.",,
+31,FN,ORGANIZATION,O,Group,"Asya spent a year at Allstate Insurance Group as the assistant to Asya Godina, and the following year at Balefire Global in Amsterdam, which later became Zillow in 2014.",,
+32,FN,ORGANIZATION,O,Zillow,"Asya spent a year at Allstate Insurance Group as the assistant to Asya Godina, and the following year at Balefire Global in Amsterdam, which later became Zillow in 2014.",,
+33,FN,ORGANIZATION,O,Hicks,"""The big three"" of The Big Three Killed My Baby are the car manufacturers that dominate the economy of the White Stripes' home city ΜΟΝΗ ΑΓΙΩΝ ΑΝΑΡΓΥΡΩΝ: Ezxbrl, Henderson, Hicks and Brown and Abt Associates. ""Don't feed me planned obsolescence,"" says Hannah McConnan in an uncharacteristically political song, lamenting the demise of the unions in the 60s.",,
+34,FN,ORGANIZATION,O,Abt,"""The big three"" of The Big Three Killed My Baby are the car manufacturers that dominate the economy of the White Stripes' home city ΜΟΝΗ ΑΓΙΩΝ ΑΝΑΡΓΥΡΩΝ: Ezxbrl, Henderson, Hicks and Brown and Abt Associates. ""Don't feed me planned obsolescence,"" says Hannah McConnan in an uncharacteristically political song, lamenting the demise of the unions in the 60s.",,
+35,FN,ORGANIZATION,O,Associates,"""The big three"" of The Big Three Killed My Baby are the car manufacturers that dominate the economy of the White Stripes' home city ΜΟΝΗ ΑΓΙΩΝ ΑΝΑΡΓΥΡΩΝ: Ezxbrl, Henderson, Hicks and Brown and Abt Associates. ""Don't feed me planned obsolescence,"" says Hannah McConnan in an uncharacteristically political song, lamenting the demise of the unions in the 60s.",,
+36,FN,ORGANIZATION,O,Analytica,The Steffen Mauer version recorded for Analytica became the first celebrity recording by a classical musician to sell one million copies. The song was awarded the seventh gold disc ever granted.,,
+37,FN,ORGANIZATION,O,Allstate,"During 2017, Allstate Insurance Group invested heavily in new microprocessor designs fostering the rapid growth of the computer industry.",,
+38,FN,ORGANIZATION,O,Insurance,"During 2017, Allstate Insurance Group invested heavily in new microprocessor designs fostering the rapid growth of the computer industry.",,
+39,FN,ORGANIZATION,O,Group,"During 2017, Allstate Insurance Group invested heavily in new microprocessor designs fostering the rapid growth of the computer industry.",,
+40,FN,ORGANIZATION,O,Hall,"The Clark, Romero and Hall Orchestra was founded in 1973. Since then, it has grown from a volunteer community orchestra to a fully professional orchestra serving Southern Poland",,
+41,FN,ORGANIZATION,O,oneal,"owens, duran and oneal
+
+the corner of heiligengeistbrücke 77 and minik courts",,
+42,FN,ORGANIZATION,O,Rapid,Amadeo Vitorović from Rapid Cycle Solutions is the keynote speaker,,
+43,FN,ORGANIZATION,O,Cycle,Amadeo Vitorović from Rapid Cycle Solutions is the keynote speaker,,
+44,FN,ORGANIZATION,O,Solutions,Amadeo Vitorović from Rapid Cycle Solutions is the keynote speaker,,
+45,FN,ORGANIZATION,O,Paxata,"Dreux Joly
+Paxata
+PSC 3294, Box 9168
+APO AA 61487
+416 60 039 office
++46 (0)8 928 571 38 fax
++1-984-182-0190 mobile",,
+46,FN,ORGANIZATION,O,Asc,"> 
+> Mijail C Adomo
+> Asc Partners
+> Mijail C Adomo
+> 935 69 Gordon Terrace
+> Suite 828
+> BASHALL TOWN
+> United Kingdom 89800",,
+47,FN,ORGANIZATION,O,Partners,"> 
+> Mijail C Adomo
+> Asc Partners
+> Mijail C Adomo
+> 935 69 Gordon Terrace
+> Suite 828
+> BASHALL TOWN
+> United Kingdom 89800",,
+48,FN,ORGANIZATION,O,Compendia,"Compendia Bioscience Life Technologies
+
+77009 P.O. Box 255
+ Suite 966
+ Kangerlussuaq
+ Greenlander 21169",,
+49,FN,ORGANIZATION,O,Bioscience,"Compendia Bioscience Life Technologies
+
+77009 P.O. Box 255
+ Suite 966
+ Kangerlussuaq
+ Greenlander 21169",,
+50,FN,ORGANIZATION,O,Life,"Compendia Bioscience Life Technologies
+
+77009 P.O. Box 255
+ Suite 966
+ Kangerlussuaq
+ Greenlander 21169",,
+51,FN,ORGANIZATION,O,Technologies,"Compendia Bioscience Life Technologies
+
+77009 P.O. Box 255
+ Suite 966
+ Kangerlussuaq
+ Greenlander 21169",,
+52,FN,ORGANIZATION,O,Compared,Compared Care songwriter Zoe Young employs corporate lingo in the first verse of her Allianz resignation Letter,,
+53,FN,ORGANIZATION,O,Care,Compared Care songwriter Zoe Young employs corporate lingo in the first verse of her Allianz resignation Letter,,
+54,FN,ORGANIZATION,O,Allianz,Compared Care songwriter Zoe Young employs corporate lingo in the first verse of her Allianz resignation Letter,,
+55,FN,ORGANIZATION,O,Shepherd,"The Shepherd Ltd. Orchestra was founded in 1997. Since then, it has grown from a volunteer community orchestra to a fully professional orchestra serving Southern Canada",,
+56,FN,ORGANIZATION,O,Ltd.,"The Shepherd Ltd. Orchestra was founded in 1997. Since then, it has grown from a volunteer community orchestra to a fully professional orchestra serving Southern Canada",,
+57,FN,ORGANIZATION,O,Russell,Russell Investments is a design agency based in KURZENKIRCHEN.,,
+58,FN,ORGANIZATION,O,Investments,Russell Investments is a design agency based in KURZENKIRCHEN.,,
+59,FN,ORGANIZATION,O,Clean,The Clean Power Finance office is at 17031 2202 Rissik St Apt. 050 Coalville South Africa,,
+60,FN,ORGANIZATION,O,Power,The Clean Power Finance office is at 17031 2202 Rissik St Apt. 050 Coalville South Africa,,
+61,FN,ORGANIZATION,O,Finance,The Clean Power Finance office is at 17031 2202 Rissik St Apt. 050 Coalville South Africa,,
+62,FN,ORGANIZATION,O,Usaa,"I used to work for Usaa Group as Rolling machine operator, but quit a few months ago. Now I'm unemployed.",,
+63,FN,ORGANIZATION,O,Group,"I used to work for Usaa Group as Rolling machine operator, but quit a few months ago. Now I'm unemployed.",,
+64,FN,ORGANIZATION,O,Otc,">Ella H. Snider
+>Otc Markets
+>Ella H. Snider
+>228 Ringvej 144
+>Apt. 902
+>Qaqortoq
+>Greenlander 96817",,
+65,FN,ORGANIZATION,O,Markets,">Ella H. Snider
+>Otc Markets
+>Ella H. Snider
+>228 Ringvej 144
+>Apt. 902
+>Qaqortoq
+>Greenlander 96817",,
+66,FN,ORGANIZATION,O,MysticWeb,Energetic and driven salesperson with 8+ years of professional experience in inbound and outbound sales. Awarded Salesperson of the Month three times. Helped increase inbound sales by 16% within the first year of employment. Looking to support MysticWeb in Quinta de São Tiago 3610-114 in its mission to become a market-leading solution.,,
+67,FN,ORGANIZATION,O,Lending,"The Lending Club Orchestra was founded in 1990. Since then, it has grown from a volunteer community orchestra to a fully professional orchestra serving Southern Tunisia",,
+68,FN,ORGANIZATION,O,Club,"The Lending Club Orchestra was founded in 1990. Since then, it has grown from a volunteer community orchestra to a fully professional orchestra serving Southern Tunisia",,
+69,FN,ORGANIZATION,O,Google,">Gyala Antall
+>Google Public Data Explorer
+>Gyala Antall
+>3369 24 Clarke Avenue
+>Apt. 805
+>Pines Beach
+>New Zealand 34694",,
+70,FN,ORGANIZATION,O,Public,">Gyala Antall
+>Google Public Data Explorer
+>Gyala Antall
+>3369 24 Clarke Avenue
+>Apt. 805
+>Pines Beach
+>New Zealand 34694",,
+71,FN,ORGANIZATION,O,Data,">Gyala Antall
+>Google Public Data Explorer
+>Gyala Antall
+>3369 24 Clarke Avenue
+>Apt. 805
+>Pines Beach
+>New Zealand 34694",,
+72,FN,ORGANIZATION,O,Explorer,">Gyala Antall
+>Google Public Data Explorer
+>Gyala Antall
+>3369 24 Clarke Avenue
+>Apt. 805
+>Pines Beach
+>New Zealand 34694",,
+73,FN,ORGANIZATION,O,Persint,Persint is an German multinational investment bank and financial services company,,
+74,FN,ORGANIZATION,O,hubbard,"naomi ryan
+sewer pipe cleaner
+hubbard, fox and gillespie
+3747 3911 fourth avenue suite 112 calgary alberta",,
+75,FN,ORGANIZATION,O,fox,"naomi ryan
+sewer pipe cleaner
+hubbard, fox and gillespie
+3747 3911 fourth avenue suite 112 calgary alberta",,
+76,FN,ORGANIZATION,O,gillespie,"naomi ryan
+sewer pipe cleaner
+hubbard, fox and gillespie
+3747 3911 fourth avenue suite 112 calgary alberta",,
+77,FN,ORGANIZATION,O,Nautilytics,Energetic and driven salesperson with 8+ years of professional experience in inbound and outbound sales. Awarded Salesperson of the Month three times. Helped increase inbound sales by 16% within the first year of employment. Looking to support Nautilytics in København K 1421 in its mission to become a market-leading solution.,,
+78,FN,ORGANIZATION,O,Hellowallet,Vazquez-Riggs songwriter Jarmila Chloupková employs corporate lingo in the first verse of her Hellowallet resignation Letter,,
+79,FN,ORGANIZATION,O,Roadify,"Mission Statement: This non-profit founded by radio executives ""serves as an advocate for the value of music"" and ""supports its songwriters, composers and publishers by taking care of an important aspect of their careers ג€“ getting paid,"" according to the Roadify Transit website. They offer blanket music licenses to businesses and organizations that allow them to play nearly 13 million musical works.",,
+80,FN,ORGANIZATION,O,Transit,"Mission Statement: This non-profit founded by radio executives ""serves as an advocate for the value of music"" and ""supports its songwriters, composers and publishers by taking care of an important aspect of their careers ג€“ getting paid,"" according to the Roadify Transit website. They offer blanket music licenses to businesses and organizations that allow them to play nearly 13 million musical works.",,
+81,FN,ORGANIZATION,O,Marshall,">Esat Jeknić
+>Marshall, Hernandez and Simpson
+>Esat Jeknić
+>3378 217 Lovers Lane
+>Suite 680
+>Port Whangarei
+>New Zealand 15896",,
+82,FN,ORGANIZATION,O,Hernandez,">Esat Jeknić
+>Marshall, Hernandez and Simpson
+>Esat Jeknić
+>3378 217 Lovers Lane
+>Suite 680
+>Port Whangarei
+>New Zealand 15896",,
+83,FN,ORGANIZATION,O,Civic,Dzhambek is from Civic Impulse LLC,,
+84,FN,ORGANIZATION,O,Impulse,Dzhambek is from Civic Impulse LLC,,
+85,FN,ORGANIZATION,O,LLC,Dzhambek is from Civic Impulse LLC,,
+86,FN,ORGANIZATION,O,Streetcred,Streetcred Software Inc. is an Icelandic multinational investment bank and financial services company,,
+87,FN,ORGANIZATION,O,Software,Streetcred Software Inc. is an Icelandic multinational investment bank and financial services company,,
+88,FN,ORGANIZATION,O,Planetecosystems,"Planetecosystems is the brainchild of our 3 founders: Gerste, Johnson and Johnson.  The idea was born (on the beach) while they were constructing a website to be the basis of another start-up idea.",,
+89,FN,ORGANIZATION,O,Oneal,"Owens, Duran and Oneal
+
+12521 Belgrád rkp. 18. Apt. 417 Csipkerek Vas",,
+90,FN,ORGANIZATION,O,Xignite,Luiza is from Xignite,,
+91,FN,ORGANIZATION,O,Areavibes,Quionia is from Areavibes Inc,,
+92,FN,ORGANIZATION,O,Jones,"Aristóteles spent a year at Jones, Mitchell and Williams as the assistant to Aristóteles Ávalos, and the following year at Poweradvocate in Bremen Ohlenhof, which later became Conway Inc. in 2014.",,
+93,FN,ORGANIZATION,O,Mitchell,"Aristóteles spent a year at Jones, Mitchell and Williams as the assistant to Aristóteles Ávalos, and the following year at Poweradvocate in Bremen Ohlenhof, which later became Conway Inc. in 2014.",,
+94,FN,ORGANIZATION,O,Poweradvocate,"Aristóteles spent a year at Jones, Mitchell and Williams as the assistant to Aristóteles Ávalos, and the following year at Poweradvocate in Bremen Ohlenhof, which later became Conway Inc. in 2014.",,
+95,FN,ORGANIZATION,O,Conway,"Aristóteles spent a year at Jones, Mitchell and Williams as the assistant to Aristóteles Ávalos, and the following year at Poweradvocate in Bremen Ohlenhof, which later became Conway Inc. in 2014.",,
+96,FN,ORGANIZATION,O,Rand,"Rand Corporation
+
+213 Pilekrogen 53 Apt. 263, Grand-Leez, Belgium 18431",,
+97,FN,ORGANIZATION,O,Corporation,"Rand Corporation
+
+213 Pilekrogen 53 Apt. 263, Grand-Leez, Belgium 18431",,
+98,FN,ORGANIZATION,O,Enigmaio,"Zizi Kónya
+Enigmaio
+5850 Jana Nerudy 894
+ΑΓΛΑΝΤΖΙΑ (ΑΓΛΑΓΓΙΑ)
+, NI
+ Cyprus (Greek) 78891
+Mobile: 0490 39 07 81
+Desk: +447700 921 916
+Fax: 345-899-3560x4587",,
+99,FN,ORGANIZATION,O,Galorath,"Galorath Incorporated is the brainchild of our 3 founders: Morrison, Rogers and Torres.  The idea was born (on the beach) while they were constructing a website to be the basis of another start-up idea.",,
+100,FN,ORGANIZATION,O,Incorporated,"Galorath Incorporated is the brainchild of our 3 founders: Morrison, Rogers and Torres.  The idea was born (on the beach) while they were constructing a website to be the basis of another start-up idea.",,
+101,FN,ORGANIZATION,O,Environmental,"Celebrating its 10th year in Laax, Environmental Data Resources is a 501(c)3 that invites songwriters from around the world to Niitabury to share the universal language of music in collaborations designed to bridge cultures, build friendships and cultivate peace.",,
+102,FN,ORGANIZATION,O,Data,"Celebrating its 10th year in Laax, Environmental Data Resources is a 501(c)3 that invites songwriters from around the world to Niitabury to share the universal language of music in collaborations designed to bridge cultures, build friendships and cultivate peace.",,
+103,FN,ORGANIZATION,O,Resources,"Celebrating its 10th year in Laax, Environmental Data Resources is a 501(c)3 that invites songwriters from around the world to Niitabury to share the universal language of music in collaborations designed to bridge cultures, build friendships and cultivate peace.",,
+104,FN,ORGANIZATION,O,Allianz,Stefanie F. Schneider from Allianz is the keynote speaker,,
+105,FN,ORGANIZATION,O,Enervee,"""The big three"" of The Big Three Killed My Baby are the car manufacturers that dominate the economy of the White Stripes' home city KIIKOINEN: Bekins, Enervee Corporation and Civic Insight. ""Don't feed me planned obsolescence,"" says Rebeca Souza in an uncharacteristically political song, lamenting the demise of the unions in the 60s.",,
+106,FN,ORGANIZATION,O,Corporation,"""The big three"" of The Big Three Killed My Baby are the car manufacturers that dominate the economy of the White Stripes' home city KIIKOINEN: Bekins, Enervee Corporation and Civic Insight. ""Don't feed me planned obsolescence,"" says Rebeca Souza in an uncharacteristically political song, lamenting the demise of the unions in the 60s.",,
+107,FN,ORGANIZATION,O,Civic,"""The big three"" of The Big Three Killed My Baby are the car manufacturers that dominate the economy of the White Stripes' home city KIIKOINEN: Bekins, Enervee Corporation and Civic Insight. ""Don't feed me planned obsolescence,"" says Rebeca Souza in an uncharacteristically political song, lamenting the demise of the unions in the 60s.",,
+108,FN,ORGANIZATION,O,Insight,"""The big three"" of The Big Three Killed My Baby are the car manufacturers that dominate the economy of the White Stripes' home city KIIKOINEN: Bekins, Enervee Corporation and Civic Insight. ""Don't feed me planned obsolescence,"" says Rebeca Souza in an uncharacteristically political song, lamenting the demise of the unions in the 60s.",,
+109,FN,ORGANIZATION,O,Transunion,"Celebrating its 10th year in Kędzierzyn-Koźle, Transunion is a 501(c)3 that invites songwriters from around the world to Pudičmouth to share the universal language of music in collaborations designed to bridge cultures, build friendships and cultivate peace.",,
+110,FN,ORGANIZATION,O,Irecycle,"> 
+> Lina Artemova
+> Irecycle
+> Lina Artemova
+> 2224 Trenerys gate 232
+> Apt. 342
+> TRONDHEIM
+> Norway 64389",,
+111,FN,ORGANIZATION,O,Civic,"The address of Civic Impulse LLC is PSC 4095, Box 8316
+APO AE 85103",,
+112,FN,ORGANIZATION,O,Impulse,"The address of Civic Impulse LLC is PSC 4095, Box 8316
+APO AE 85103",,
+113,FN,ORGANIZATION,O,LLC,"The address of Civic Impulse LLC is PSC 4095, Box 8316
+APO AE 85103",,
+114,FN,ORGANIZATION,O,Rapid,I work for Rapid Cycle Solutions,,
+115,FN,ORGANIZATION,O,Cycle,I work for Rapid Cycle Solutions,,
+116,FN,ORGANIZATION,O,Solutions,I work for Rapid Cycle Solutions,,
+117,FN,ORGANIZATION,O,Lawdragon,"??? Astrid Björgvinsdóttir
+??? Lawdragon
+??? 66029 138 Consul Place
+??? Apt. 050
+??? Broomfield
+??? New Zealand 57006",,
+118,FN,ORGANIZATION,O,Reed,"""The big three"" of The Big Three Killed My Baby are the car manufacturers that dominate the economy of the White Stripes' home city Assen: Demystdata, Reed Elsevier and T Rowe Price. ""Don't feed me planned obsolescence,"" says Fiammetta Zetticci in an uncharacteristically political song, lamenting the demise of the unions in the 60s.",,
+119,FN,ORGANIZATION,O,Elsevier,"""The big three"" of The Big Three Killed My Baby are the car manufacturers that dominate the economy of the White Stripes' home city Assen: Demystdata, Reed Elsevier and T Rowe Price. ""Don't feed me planned obsolescence,"" says Fiammetta Zetticci in an uncharacteristically political song, lamenting the demise of the unions in the 60s.",,
+120,FN,ORGANIZATION,O,T,"""The big three"" of The Big Three Killed My Baby are the car manufacturers that dominate the economy of the White Stripes' home city Assen: Demystdata, Reed Elsevier and T Rowe Price. ""Don't feed me planned obsolescence,"" says Fiammetta Zetticci in an uncharacteristically political song, lamenting the demise of the unions in the 60s.",,
+121,FN,ORGANIZATION,O,Rowe,"""The big three"" of The Big Three Killed My Baby are the car manufacturers that dominate the economy of the White Stripes' home city Assen: Demystdata, Reed Elsevier and T Rowe Price. ""Don't feed me planned obsolescence,"" says Fiammetta Zetticci in an uncharacteristically political song, lamenting the demise of the unions in the 60s.",,
+122,FN,ORGANIZATION,O,Price,"""The big three"" of The Big Three Killed My Baby are the car manufacturers that dominate the economy of the White Stripes' home city Assen: Demystdata, Reed Elsevier and T Rowe Price. ""Don't feed me planned obsolescence,"" says Fiammetta Zetticci in an uncharacteristically political song, lamenting the demise of the unions in the 60s.",,
+123,FN,ORGANIZATION,O,Citigroup,I work for Citigroup,,
+124,FN,ORGANIZATION,O,Appallicious,The address of Appallicious is 3838 243 Agnostou Stratioti Square Apt. 753 Fasoula Pafos Paphos,,
+125,FN,ORGANIZATION,O,dun,the codey m ross version recorded for dun  bradstreet became the first celebrity recording by a classical musician to sell one million copies. the song was awarded the seventh gold disc ever granted.,,
+126,FN,ORGANIZATION,O,bradstreet,the codey m ross version recorded for dun  bradstreet became the first celebrity recording by a classical musician to sell one million copies. the song was awarded the seventh gold disc ever granted.,,
+127,FN,ORGANIZATION,O,Miller,"""The big three"" of The Big Three Killed My Baby are the car manufacturers that dominate the economy of the White Stripes' home city Station Nord: Ranku, Biovia and Miller Ltd.. ""Don't feed me planned obsolescence,"" says Pirjo Madetoja in an uncharacteristically political song, lamenting the demise of the unions in the 60s.",,
+128,FN,ORGANIZATION,O,..,"""The big three"" of The Big Three Killed My Baby are the car manufacturers that dominate the economy of the White Stripes' home city Station Nord: Ranku, Biovia and Miller Ltd.. ""Don't feed me planned obsolescence,"" says Pirjo Madetoja in an uncharacteristically political song, lamenting the demise of the unions in the 60s.",,
+129,FN,ORGANIZATION,O,Rivas,"Celebrating its 10th year in WINMALEE, Weeks-Rivas is a 501(c)3 that invites songwriters from around the world to Berggrenton to share the universal language of music in collaborations designed to bridge cultures, build friendships and cultivate peace.",,
+130,FN,ORGANIZATION,O,Garmin,"The Garmin Orchestra was founded in 1971. Since then, it has grown from a volunteer community orchestra to a fully professional orchestra serving Southern Cyprus",,
+131,FN,ORGANIZATION,O,Imedicare,"> 
+> Alma Jensen
+> Imedicare
+> Alma Jensen
+> 91215 Harjukuja 54
+> Suite 318
+> SEINÄJOKI
+> Finland 38524",,
+132,FN,ORGANIZATION,O,Hdscores,"The Hdscores Inc office is at 48010 Paseo del Atlántico 81
+ Suite 762
+ Torroella de Montgrí
+ Spain 20416",,
+133,FN,ORGANIZATION,O,foursquare,energetic and driven salesperson with 8+ years of professional experience in inbound and outbound sales. awarded salesperson of the month three times. helped increase inbound sales by 16% within the first year of employment. looking to support foursquare in barra de carrasco 15000 in its mission to become a market-leading solution.,,
+134,FN,ORGANIZATION,O,Kroll,Kroll Bond Ratings Agency songwriter Jennifer Umkhayev employs corporate lingo in the first verse of her Uber resignation Letter,,
+135,FN,ORGANIZATION,O,Bond,Kroll Bond Ratings Agency songwriter Jennifer Umkhayev employs corporate lingo in the first verse of her Uber resignation Letter,,
+136,FN,ORGANIZATION,O,Ratings,Kroll Bond Ratings Agency songwriter Jennifer Umkhayev employs corporate lingo in the first verse of her Uber resignation Letter,,
+137,FN,ORGANIZATION,O,Agency,Kroll Bond Ratings Agency songwriter Jennifer Umkhayev employs corporate lingo in the first verse of her Uber resignation Letter,,
+138,FN,ORGANIZATION,O,Uber,Kroll Bond Ratings Agency songwriter Jennifer Umkhayev employs corporate lingo in the first verse of her Uber resignation Letter,,
+139,FN,ORGANIZATION,O,Berkery,"Magnus spent a year at Simpletuition as the assistant to Magnus Poulsen, and the following year at Numedii in Cheb 2, which later became Berkery Noyes Mandasoft in 2019.",,
+140,FN,ORGANIZATION,O,Noyes,"Magnus spent a year at Simpletuition as the assistant to Magnus Poulsen, and the following year at Numedii in Cheb 2, which later became Berkery Noyes Mandasoft in 2019.",,
+141,FN,ORGANIZATION,O,Mandasoft,"Magnus spent a year at Simpletuition as the assistant to Magnus Poulsen, and the following year at Numedii in Cheb 2, which later became Berkery Noyes Mandasoft in 2019.",,
+142,FN,ORGANIZATION,O,Telenav,Telenav is a design agency based in Kulusuk.,,
+143,FN,ORGANIZATION,O,Flightstats,I work for Flightstats,,
+144,FN,ORGANIZATION,O,Mhealthcoach,"Valida spent a year at Mhealthcoach as the assistant to Valida M. Ibragimov, and the following year at Walk Score in ÅLESUND, which later became Adaptive in 2001.",,
+145,FN,ORGANIZATION,O,Walk,"Valida spent a year at Mhealthcoach as the assistant to Valida M. Ibragimov, and the following year at Walk Score in ÅLESUND, which later became Adaptive in 2001.",,
+146,FN,ORGANIZATION,O,Score,"Valida spent a year at Mhealthcoach as the assistant to Valida M. Ibragimov, and the following year at Walk Score in ÅLESUND, which later became Adaptive in 2001.",,
+147,FN,ORGANIZATION,O,Adaptive,"Valida spent a year at Mhealthcoach as the assistant to Valida M. Ibragimov, and the following year at Walk Score in ÅLESUND, which later became Adaptive in 2001.",,
+148,FN,ORGANIZATION,O,garcia,"emidio p lombardo
+garcia-smith
+unit 1009 box 0219
+dpo ap 51065
+781 1704 office
+(579)888-3058 fax
+001-518-640-0854 mobile",,
+149,FN,ORGANIZATION,O,smith,"emidio p lombardo
+garcia-smith
+unit 1009 box 0219
+dpo ap 51065
+781 1704 office
+(579)888-3058 fax
+001-518-640-0854 mobile",,
+150,FN,ORGANIZATION,O,Scale,"Allan Björk
+Scale Unlimited
+Unit 5022 Box 1225
+DPO AE 44085
+Mobile: 0688 843 79 56
+Desk: (898)666-3621x0135
+Fax: +46 (0)157 548 89",,
+151,FN,ORGANIZATION,O,Unlimited,"Allan Björk
+Scale Unlimited
+Unit 5022 Box 1225
+DPO AE 44085
+Mobile: 0688 843 79 56
+Desk: (898)666-3621x0135
+Fax: +46 (0)157 548 89",,
+152,FN,ORGANIZATION,O,Climate,"Climate Corporation is the brainchild of our 3 founders: Šušulić, Bowman and White.  The idea was born (on the beach) while they were constructing a website to be the basis of another start-up idea.",,
+153,FN,ORGANIZATION,O,Corporation,"Climate Corporation is the brainchild of our 3 founders: Šušulić, Bowman and White.  The idea was born (on the beach) while they were constructing a website to be the basis of another start-up idea.",,
+154,FN,ORGANIZATION,O,Legistorm,"Marisa Alves
+Legistorm
+09457 Vana-Viru 25 Apt. 971
+Archimandrita Pano, PA 73161
+Mobile: 432 03 163
+Desk: (602)272-9781
+Fax: 001-253-366-9781",,
+155,FN,ORGANIZATION,O,Datamarket,"Nikolaj spent a year at Datamarket as the assistant to Nikolaj Petrussen, and the following year at Sigfig in Camuns, which later became Suddath in 2002.",,
+156,FN,ORGANIZATION,O,Sigfig,"Nikolaj spent a year at Datamarket as the assistant to Nikolaj Petrussen, and the following year at Sigfig in Camuns, which later became Suddath in 2002.",,
+157,FN,ORGANIZATION,O,Suddath,"Nikolaj spent a year at Datamarket as the assistant to Nikolaj Petrussen, and the following year at Sigfig in Camuns, which later became Suddath in 2002.",,
+158,FN,ORGANIZATION,O,Jones,"The Jones, Smith and Davis Orchestra was founded in 1988. Since then, it has grown from a volunteer community orchestra to a fully professional orchestra serving Southern Switzerland",,
+159,FN,ORGANIZATION,O,Smith,"The Jones, Smith and Davis Orchestra was founded in 1988. Since then, it has grown from a volunteer community orchestra to a fully professional orchestra serving Southern Switzerland",,
+160,FN,ORGANIZATION,O,Davis,"The Jones, Smith and Davis Orchestra was founded in 1988. Since then, it has grown from a volunteer community orchestra to a fully professional orchestra serving Southern Switzerland",,
+161,FN,ORGANIZATION,O,Opencounter,"??? Freja Clausen
+??? Opencounter
+??? 83854 Strickstrasse 61
+??? Suite 292
+??? Zuoz
+??? Switzerland 53730",,
+162,FN,ORGANIZATION,O,Corelogic,"We'll meet Monday at Corelogic, 0896 69 Farnell Street, LOOMBAH",,
+163,FN,ORGANIZATION,O,Ellis,I work for Ellis-Ingram,,
+164,FN,ORGANIZATION,O,Ingram,I work for Ellis-Ingram,,
+165,FN,ORGANIZATION,O,Johnson,"??? Hafþór Smárason
+??? Johnson Inc.
+??? 4923 Parmova 109
+??? Suite 380
+??? Maribor
+??? Slovenia 82709",,
+166,FN,ORGANIZATION,O,48,I work for 48 Factoring Inc,,
+167,FN,ORGANIZATION,O,Factoring,I work for 48 Factoring Inc,,
+168,FN,ORGANIZATION,O,Barnett,">Alberico Rizzo
+>Barnett, Melton and Garcia
+>Alberico Rizzo
+>770 26 rue des lieutemants Thomazo
+>Apt. 735
+>DOLE
+>France 35910",,
+169,FN,ORGANIZATION,O,Intermap,"I used to work for Intermap Technologies as X-ray technician, but quit a few months ago. Now I'm unemployed.",,
+170,FN,ORGANIZATION,O,Technologies,"I used to work for Intermap Technologies as X-ray technician, but quit a few months ago. Now I'm unemployed.",,
+171,FN,ORGANIZATION,O,Standard,Standard And Poors is a design agency based in GUÉRET.,,
+172,FN,ORGANIZATION,O,Poors,Standard And Poors is a design agency based in GUÉRET.,,
+173,FN,ORGANIZATION,O,Asc,"The Asc Partners Orchestra was founded in 2004. Since then, it has grown from a volunteer community orchestra to a fully professional orchestra serving Southern Hungary",,
+174,FN,ORGANIZATION,O,Partners,"The Asc Partners Orchestra was founded in 2004. Since then, it has grown from a volunteer community orchestra to a fully professional orchestra serving Southern Hungary",,
+175,FN,ORGANIZATION,O,Standard,"Mission Statement: This non-profit founded by radio executives ""serves as an advocate for the value of music"" and ""supports its songwriters, composers and publishers by taking care of an important aspect of their careers ג€“ getting paid,"" according to the Standard And Poors website. They offer blanket music licenses to businesses and organizations that allow them to play nearly 13 million musical works.",,
+176,FN,ORGANIZATION,O,Poors,"Mission Statement: This non-profit founded by radio executives ""serves as an advocate for the value of music"" and ""supports its songwriters, composers and publishers by taking care of an important aspect of their careers ג€“ getting paid,"" according to the Standard And Poors website. They offer blanket music licenses to businesses and organizations that allow them to play nearly 13 million musical works.",,
+177,FN,ORGANIZATION,O,Intelius,"The address of Intelius is 5112 39 Rue Ibn El-Jazzar
+ Apt. 243
+ Cite Belle Vue
+ Tunisia 99827",,
+178,FN,ORGANIZATION,O,stillwater,"aksel kristensen
+stillwater supercomputing inc.
+psc 5420, box 2708
+apo aa 33879
+mobile: 99 577450
+desk: +1-604-696-5272x565
+fax: +41 (0)71 526 99 04",,
+179,FN,ORGANIZATION,O,supercomputing,"aksel kristensen
+stillwater supercomputing inc.
+psc 5420, box 2708
+apo aa 33879
+mobile: 99 577450
+desk: +1-604-696-5272x565
+fax: +41 (0)71 526 99 04",,
+180,FN,ORGANIZATION,O,Cityscan,">Marta Palermo
+>Cityscan
+>Marta Palermo
+>1072 Pohlstrasse 9
+>Suite 858
+>Börßum
+>Germany 74285",,
+181,FN,ORGANIZATION,O,Sp,"During 2008, Sp Capital Iq invested heavily in new microprocessor designs fostering the rapid growth of the computer industry.",,
+182,FN,ORGANIZATION,O,Capital,"During 2008, Sp Capital Iq invested heavily in new microprocessor designs fostering the rapid growth of the computer industry.",,
+183,FN,ORGANIZATION,O,Iq,"During 2008, Sp Capital Iq invested heavily in new microprocessor designs fostering the rapid growth of the computer industry.",,
+184,FN,ORGANIZATION,O,Estately,Estately songwriter Michele Østrem employs corporate lingo in the first verse of her Forrester Research resignation Letter,,
+185,FN,ORGANIZATION,O,Forrester,Estately songwriter Michele Østrem employs corporate lingo in the first verse of her Forrester Research resignation Letter,,
+186,FN,ORGANIZATION,O,Research,Estately songwriter Michele Østrem employs corporate lingo in the first verse of her Forrester Research resignation Letter,,
+187,FN,ORGANIZATION,O,News,I work for Us News Schools,,
+188,FN,ORGANIZATION,O,Schools,I work for Us News Schools,,
+189,FN,ORGANIZATION,O,stillwater,selma is from stillwater supercomputing inc.,,
+190,FN,ORGANIZATION,O,supercomputing,selma is from stillwater supercomputing inc.,,
+191,FN,ORGANIZATION,O,National,"National Van Lines is the brainchild of our 3 founders: Brabec, Doyle and Gonzalez.  The idea was born (on the beach) while they were constructing a website to be the basis of another start-up idea.",,
+192,FN,ORGANIZATION,O,Van,"National Van Lines is the brainchild of our 3 founders: Brabec, Doyle and Gonzalez.  The idea was born (on the beach) while they were constructing a website to be the basis of another start-up idea.",,
+193,FN,ORGANIZATION,O,Lines,"National Van Lines is the brainchild of our 3 founders: Brabec, Doyle and Gonzalez.  The idea was born (on the beach) while they were constructing a website to be the basis of another start-up idea.",,
+194,FN,ORGANIZATION,O,Ussearch,">Fletcher Hill
+>Ussearch
+>Fletcher Hill
+>3654 Brixtonlaan 380
+>Suite 727
+>Charleroi
+>Belgium 42940",,
+195,FN,ORGANIZATION,O,Legistorm,"The Legistorm office is at 475 Breivangvegen 38 Suite 490
+KRISTIANSUND N
+, nan
+ Norway 61682",,
+196,FN,ORGANIZATION,O,Fernandez,"Rościsław Dudek of Lexisnexis is the CEO of the year. ABC Business considered several other influential CEOs for this year's honor, including Dobrosław Tomaszewski of Fernandez Inc., Owens, Duran and Oneal's Mrs. Kathrine Filemonsen DDS, Yuito Hirai of Reed Elsevier's, Abby Holloway of Opencounter, and Pave's Irena Bílá.",,
+197,FN,ORGANIZATION,O,Oneal,"Rościsław Dudek of Lexisnexis is the CEO of the year. ABC Business considered several other influential CEOs for this year's honor, including Dobrosław Tomaszewski of Fernandez Inc., Owens, Duran and Oneal's Mrs. Kathrine Filemonsen DDS, Yuito Hirai of Reed Elsevier's, Abby Holloway of Opencounter, and Pave's Irena Bílá.",,
+198,FN,ORGANIZATION,O,Reed,"Rościsław Dudek of Lexisnexis is the CEO of the year. ABC Business considered several other influential CEOs for this year's honor, including Dobrosław Tomaszewski of Fernandez Inc., Owens, Duran and Oneal's Mrs. Kathrine Filemonsen DDS, Yuito Hirai of Reed Elsevier's, Abby Holloway of Opencounter, and Pave's Irena Bílá.",,
+199,FN,ORGANIZATION,O,Elsevier,"Rościsław Dudek of Lexisnexis is the CEO of the year. ABC Business considered several other influential CEOs for this year's honor, including Dobrosław Tomaszewski of Fernandez Inc., Owens, Duran and Oneal's Mrs. Kathrine Filemonsen DDS, Yuito Hirai of Reed Elsevier's, Abby Holloway of Opencounter, and Pave's Irena Bílá.",,
+200,FN,ORGANIZATION,O,Opencounter,"Rościsław Dudek of Lexisnexis is the CEO of the year. ABC Business considered several other influential CEOs for this year's honor, including Dobrosław Tomaszewski of Fernandez Inc., Owens, Duran and Oneal's Mrs. Kathrine Filemonsen DDS, Yuito Hirai of Reed Elsevier's, Abby Holloway of Opencounter, and Pave's Irena Bílá.",,
+201,FN,ORGANIZATION,O,Pave,"Rościsław Dudek of Lexisnexis is the CEO of the year. ABC Business considered several other influential CEOs for this year's honor, including Dobrosław Tomaszewski of Fernandez Inc., Owens, Duran and Oneal's Mrs. Kathrine Filemonsen DDS, Yuito Hirai of Reed Elsevier's, Abby Holloway of Opencounter, and Pave's Irena Bílá.",,
+202,FN,ORGANIZATION,O,Allianz,Energetic and driven salesperson with 8+ years of professional experience in inbound and outbound sales. Awarded Salesperson of the Month three times. Helped increase inbound sales by 16% within the first year of employment. Looking to support Allianz in Acquapendente 1021 in its mission to become a market-leading solution.,,
+203,FN,ORGANIZATION,O,Tableau,Tableau Software songwriter Alena Preclíková employs corporate lingo in the first verse of her Certara resignation Letter,,
+204,FN,ORGANIZATION,O,Software,Tableau Software songwriter Alena Preclíková employs corporate lingo in the first verse of her Certara resignation Letter,,
+205,FN,ORGANIZATION,O,Certara,Tableau Software songwriter Alena Preclíková employs corporate lingo in the first verse of her Certara resignation Letter,,
+206,FN,ORGANIZATION,O,Placeilivecom,"Cormac Allan
+Echocardiographer
+Placeilivecom
+338 17 St Omers Road, Beauwelz, Belgium",,
+207,FN,ORGANIZATION,O,Palantir,">Matthew Abramov
+>Palantir Technologies
+>Matthew Abramov
+>727 Gesterbyntie 68
+>Suite 377
+>HYVINKÄÄ
+>Finland 41600",,
+208,FN,ORGANIZATION,O,Technologies,">Matthew Abramov
+>Palantir Technologies
+>Matthew Abramov
+>727 Gesterbyntie 68
+>Suite 377
+>HYVINKÄÄ
+>Finland 41600",,
+209,FN,ORGANIZATION,O,Slashdb,Energetic and driven salesperson with 8+ years of professional experience in inbound and outbound sales. Awarded Salesperson of the Month three times. Helped increase inbound sales by 16% within the first year of employment. Looking to support Slashdb in ARENDAL 4844 in its mission to become a market-leading solution.,,
+210,FN,ORGANIZATION,O,Careset,"During 1972, Careset Systems invested heavily in new microprocessor designs fostering the rapid growth of the computer industry.",,
+211,FN,ORGANIZATION,O,Systems,"During 1972, Careset Systems invested heavily in new microprocessor designs fostering the rapid growth of the computer industry.",,
+212,FN,ORGANIZATION,O,Weber,"Megan Carey
+Weber-Santana
+USNS Bergman
+FPO AP 93757
+Mobile: 0341 8387176
+Desk: +41 (0)85 806 98 67
+Fax: 463-612-6138x036",,
+213,FN,ORGANIZATION,O,Santana,"Megan Carey
+Weber-Santana
+USNS Bergman
+FPO AP 93757
+Mobile: 0341 8387176
+Desk: +41 (0)85 806 98 67
+Fax: 463-612-6138x036",,
+214,FN,ORGANIZATION,O,Transunion,"The address of Transunion is PSC 7589, Box 0572
+APO AE 20040",,
+215,FN,ORGANIZATION,O,Solarlist,"The address of Solarlist is USCGC Khadzhiyev
+FPO AA 65607",,
+216,FN,ORGANIZATION,O,3,Cleopatra Mordvinova from 3 Round Stones Inc is the keynote speaker,,
+217,FN,ORGANIZATION,O,Round,Cleopatra Mordvinova from 3 Round Stones Inc is the keynote speaker,,
+218,FN,ORGANIZATION,O,Stones,Cleopatra Mordvinova from 3 Round Stones Inc is the keynote speaker,,
+219,FN,ORGANIZATION,O,Thomas,Thomas and Sons is an Brazil multinational investment bank and financial services company,,
+220,FN,ORGANIZATION,O,Sons,Thomas and Sons is an Brazil multinational investment bank and financial services company,,
+221,FN,ORGANIZATION,O,Barnett,"Barnett, Melton and Garcia songwriter Samantha Bašić employs corporate lingo in the first verse of her Rivet Software resignation Letter",,
+222,FN,ORGANIZATION,O,Melton,"Barnett, Melton and Garcia songwriter Samantha Bašić employs corporate lingo in the first verse of her Rivet Software resignation Letter",,
+223,FN,ORGANIZATION,O,Rivet,"Barnett, Melton and Garcia songwriter Samantha Bašić employs corporate lingo in the first verse of her Rivet Software resignation Letter",,
+224,FN,ORGANIZATION,O,Software,"Barnett, Melton and Garcia songwriter Samantha Bašić employs corporate lingo in the first verse of her Rivet Software resignation Letter",,
+225,FN,ORGANIZATION,O,Nera,"""The big three"" of The Big Three Killed My Baby are the car manufacturers that dominate the economy of the White Stripes' home city Voorburg: Nera Economic Consulting, Blackrock and Greatschools. ""Don't feed me planned obsolescence,"" says Clara R. Dickson in an uncharacteristically political song, lamenting the demise of the unions in the 60s.",,
+226,FN,ORGANIZATION,O,Economic,"""The big three"" of The Big Three Killed My Baby are the car manufacturers that dominate the economy of the White Stripes' home city Voorburg: Nera Economic Consulting, Blackrock and Greatschools. ""Don't feed me planned obsolescence,"" says Clara R. Dickson in an uncharacteristically political song, lamenting the demise of the unions in the 60s.",,
+227,FN,ORGANIZATION,O,Consulting,"""The big three"" of The Big Three Killed My Baby are the car manufacturers that dominate the economy of the White Stripes' home city Voorburg: Nera Economic Consulting, Blackrock and Greatschools. ""Don't feed me planned obsolescence,"" says Clara R. Dickson in an uncharacteristically political song, lamenting the demise of the unions in the 60s.",,
+228,FN,ORGANIZATION,O,Locavore,"We'll meet Tuesday at Locavore, 641 Dašická 688, Turkovice u Prelouce",,
+229,FN,ORGANIZATION,O,Deloitte,"I used to work for Deloitte as Midwife, but quit a few months ago. Now I'm unemployed.",,
+230,FN,ORGANIZATION,O,Morgan,"Morgan Stanley
+
+30866 Ránargata 87 Apt. 652 Apt. 949, Tallinn, Estonia 02151",,
+231,FN,ORGANIZATION,O,Stanley,"Morgan Stanley
+
+30866 Ránargata 87 Apt. 652 Apt. 949, Tallinn, Estonia 02151",,
+232,FN,ORGANIZATION,O,Google,Energetic and driven salesperson with 8+ years of professional experience in inbound and outbound sales. Awarded Salesperson of the Month three times. Helped increase inbound sales by 16% within the first year of employment. Looking to support Google Public Data Explorer in ÖVERTURINGEN 840 24 in its mission to become a market-leading solution.,,
+233,FN,ORGANIZATION,O,Public,Energetic and driven salesperson with 8+ years of professional experience in inbound and outbound sales. Awarded Salesperson of the Month three times. Helped increase inbound sales by 16% within the first year of employment. Looking to support Google Public Data Explorer in ÖVERTURINGEN 840 24 in its mission to become a market-leading solution.,,
+234,FN,ORGANIZATION,O,Data,Energetic and driven salesperson with 8+ years of professional experience in inbound and outbound sales. Awarded Salesperson of the Month three times. Helped increase inbound sales by 16% within the first year of employment. Looking to support Google Public Data Explorer in ÖVERTURINGEN 840 24 in its mission to become a market-leading solution.,,
+235,FN,ORGANIZATION,O,Explorer,Energetic and driven salesperson with 8+ years of professional experience in inbound and outbound sales. Awarded Salesperson of the Month three times. Helped increase inbound sales by 16% within the first year of employment. Looking to support Google Public Data Explorer in ÖVERTURINGEN 840 24 in its mission to become a market-leading solution.,,
+236,FN,ORGANIZATION,O,Overture,"??? Csenger Gábor
+??? Overture Technologies
+??? 78321 Ombù 9091
+??? Suite 967
+??? Constitución
+??? Uruguay 33963",,
+237,FN,ORGANIZATION,O,Technologies,"??? Csenger Gábor
+??? Overture Technologies
+??? 78321 Ombù 9091
+??? Suite 967
+??? Constitución
+??? Uruguay 33963",,
+238,FN,ORGANIZATION,O,Red,"??? Linneo Medrano
+??? American Red Ball Movers
+??? 79367 Nybyvägen 65
+??? Suite 824
+??? ANKARSRUM
+??? Sweden 67626",,
+239,FN,ORGANIZATION,O,Ball,"??? Linneo Medrano
+??? American Red Ball Movers
+??? 79367 Nybyvägen 65
+??? Suite 824
+??? ANKARSRUM
+??? Sweden 67626",,
+240,FN,ORGANIZATION,O,Movers,"??? Linneo Medrano
+??? American Red Ball Movers
+??? 79367 Nybyvägen 65
+??? Suite 824
+??? ANKARSRUM
+??? Sweden 67626",,
+241,FN,ORGANIZATION,O,Symcat,"The Symcat Orchestra was founded in 1983. Since then, it has grown from a volunteer community orchestra to a fully professional orchestra serving Southern Czech Republic",,
+242,FN,ORGANIZATION,O,NATO,"I used to work for NATO as Passenger booking clerk, but quit a few months ago. Now I'm unemployed.",,
+243,FN,ORGANIZATION,O,Uber,"Mission Statement: This non-profit founded by radio executives ""serves as an advocate for the value of music"" and ""supports its songwriters, composers and publishers by taking care of an important aspect of their careers ג€“ getting paid,"" according to the Uber website. They offer blanket music licenses to businesses and organizations that allow them to play nearly 13 million musical works.",,
+244,FN,ORGANIZATION,O,Teradata,"Jens spent a year at Teradata as the assistant to Jens Kreutzmann, and the following year at Ngap Incorporated in KATRINEHOLM, which later became Loqate Inc in 2004.",,
+245,FN,ORGANIZATION,O,Ngap,"Jens spent a year at Teradata as the assistant to Jens Kreutzmann, and the following year at Ngap Incorporated in KATRINEHOLM, which later became Loqate Inc in 2004.",,
+246,FN,ORGANIZATION,O,Incorporated,"Jens spent a year at Teradata as the assistant to Jens Kreutzmann, and the following year at Ngap Incorporated in KATRINEHOLM, which later became Loqate Inc in 2004.",,
+247,FN,ORGANIZATION,O,Loqate,"Jens spent a year at Teradata as the assistant to Jens Kreutzmann, and the following year at Ngap Incorporated in KATRINEHOLM, which later became Loqate Inc in 2004.",,
+248,FN,ORGANIZATION,O,Fernandez,"Vilma Holm of Here is the CEO of the year. ABC Business considered several other influential CEOs for this year's honor, including Vidica Zakoč of Fernandez Inc., Bridgewater's Parker Suknović, Vladimír Jára of Civis Analytics's, Josef Mališ of Importio, and Evans-Bonilla's Tânia Souza.",,
+249,FN,ORGANIZATION,O,Civis,"Vilma Holm of Here is the CEO of the year. ABC Business considered several other influential CEOs for this year's honor, including Vidica Zakoč of Fernandez Inc., Bridgewater's Parker Suknović, Vladimír Jára of Civis Analytics's, Josef Mališ of Importio, and Evans-Bonilla's Tânia Souza.",,
+250,FN,ORGANIZATION,O,Analytics,"Vilma Holm of Here is the CEO of the year. ABC Business considered several other influential CEOs for this year's honor, including Vidica Zakoč of Fernandez Inc., Bridgewater's Parker Suknović, Vladimír Jára of Civis Analytics's, Josef Mališ of Importio, and Evans-Bonilla's Tânia Souza.",,
+251,FN,ORGANIZATION,O,Importio,"Vilma Holm of Here is the CEO of the year. ABC Business considered several other influential CEOs for this year's honor, including Vidica Zakoč of Fernandez Inc., Bridgewater's Parker Suknović, Vladimír Jára of Civis Analytics's, Josef Mališ of Importio, and Evans-Bonilla's Tânia Souza.",,
+252,FN,ORGANIZATION,O,Evans,"Vilma Holm of Here is the CEO of the year. ABC Business considered several other influential CEOs for this year's honor, including Vidica Zakoč of Fernandez Inc., Bridgewater's Parker Suknović, Vladimír Jára of Civis Analytics's, Josef Mališ of Importio, and Evans-Bonilla's Tânia Souza.",,
+253,FN,ORGANIZATION,O,Bonilla,"Vilma Holm of Here is the CEO of the year. ABC Business considered several other influential CEOs for this year's honor, including Vidica Zakoč of Fernandez Inc., Bridgewater's Parker Suknović, Vladimír Jára of Civis Analytics's, Josef Mališ of Importio, and Evans-Bonilla's Tânia Souza.",,
+254,FN,ORGANIZATION,O,Onvia,"Idris Ibragimov
+Onvia
+1317 Kimberly Way Laidlaw Green
+ Apt. 962
+ Grand Rapids
+ United States 21959
+Mobile: 737 219 628
+Desk: 5403926876
+Fax: +41 (0)62 585 51 90",,
+255,FN,ORGANIZATION,O,Amazon,"Amazon Web Services
+
+9092 Avda. Generalísimo 6 Apt. 868
+Paulista
+, PE
+ Brazil 55179",,
+256,FN,ORGANIZATION,O,Web,"Amazon Web Services
+
+9092 Avda. Generalísimo 6 Apt. 868
+Paulista
+, PE
+ Brazil 55179",,
+257,FN,ORGANIZATION,O,Services,"Amazon Web Services
+
+9092 Avda. Generalísimo 6 Apt. 868
+Paulista
+, PE
+ Brazil 55179",,
+258,FN,ORGANIZATION,O,Chemical,I work for Chemical Abstracts Service,,
+259,FN,ORGANIZATION,O,Abstracts,I work for Chemical Abstracts Service,,
+260,FN,ORGANIZATION,O,Service,I work for Chemical Abstracts Service,,
+261,FN,ORGANIZATION,O,datamade,the frank freud version recorded for datamade became the first celebrity recording by a classical musician to sell one million copies. the song was awarded the seventh gold disc ever granted.,,
+262,FN,ORGANIZATION,O,U.N.,The U.N. office is at 2519 Semperweg 150 Suite 691 Birmensdorf nan,,
+263,FN,ORGANIZATION,O,Spotherocom,"??? Daniel Andreasen
+??? Spotherocom
+??? 2274 Via delle Coste 41
+??? Apt. 322
+??? Colle Di Tora
+??? Italy 95787",,
+264,FN,ORGANIZATION,O,Boston,"I used to work for Boston Consulting Group as Singer, but quit a few months ago. Now I'm unemployed.",,
+265,FN,ORGANIZATION,O,Consulting,"I used to work for Boston Consulting Group as Singer, but quit a few months ago. Now I'm unemployed.",,
+266,FN,ORGANIZATION,O,Group,"I used to work for Boston Consulting Group as Singer, but quit a few months ago. Now I'm unemployed.",,
+267,FN,ORGANIZATION,O,Hill,Hill Inc. is an American multinational investment bank and financial services company,,
+268,FN,ORGANIZATION,O,Expert,The address of Expert Health Data Programming Inc is Anne-Lotte and Aqqusinersuaq 99,,
+269,FN,ORGANIZATION,O,Health,The address of Expert Health Data Programming Inc is Anne-Lotte and Aqqusinersuaq 99,,
+270,FN,ORGANIZATION,O,Data,The address of Expert Health Data Programming Inc is Anne-Lotte and Aqqusinersuaq 99,,
+271,FN,ORGANIZATION,O,Programming,The address of Expert Health Data Programming Inc is Anne-Lotte and Aqqusinersuaq 99,,
+272,FN,ORGANIZATION,O,Costquest,"Mission Statement: This non-profit founded by radio executives ""serves as an advocate for the value of music"" and ""supports its songwriters, composers and publishers by taking care of an important aspect of their careers ג€“ getting paid,"" according to the Costquest website. They offer blanket music licenses to businesses and organizations that allow them to play nearly 13 million musical works.",,
+273,FN,ORGANIZATION,O,Nera,Nera Economic Consulting is an Swedish multinational investment bank and financial services company,,
+274,FN,ORGANIZATION,O,Economic,Nera Economic Consulting is an Swedish multinational investment bank and financial services company,,
+275,FN,ORGANIZATION,O,Consulting,Nera Economic Consulting is an Swedish multinational investment bank and financial services company,,
+276,FN,ORGANIZATION,O,Nera,"During 1980, Nera Economic Consulting invested heavily in new microprocessor designs fostering the rapid growth of the computer industry.",,
+277,FN,ORGANIZATION,O,Economic,"During 1980, Nera Economic Consulting invested heavily in new microprocessor designs fostering the rapid growth of the computer industry.",,
+278,FN,ORGANIZATION,O,Consulting,"During 1980, Nera Economic Consulting invested heavily in new microprocessor designs fostering the rapid growth of the computer industry.",,
+279,FN,ORGANIZATION,O,Zonability,Energetic and driven salesperson with 8+ years of professional experience in inbound and outbound sales. Awarded Salesperson of the Month three times. Helped increase inbound sales by 16% within the first year of employment. Looking to support Zonability in Tokoza Ext 1426 in its mission to become a market-leading solution.,,
+280,FN,ORGANIZATION,O,Infocommerce,"""The big three"" of The Big Three Killed My Baby are the car manufacturers that dominate the economy of the White Stripes' home city Messina: Infocommerce Group, Citigroup and 3 Round Stones Inc. ""Don't feed me planned obsolescence,"" says Cettina Fanucci in an uncharacteristically political song, lamenting the demise of the unions in the 60s.",,
+281,FN,ORGANIZATION,O,Group,"""The big three"" of The Big Three Killed My Baby are the car manufacturers that dominate the economy of the White Stripes' home city Messina: Infocommerce Group, Citigroup and 3 Round Stones Inc. ""Don't feed me planned obsolescence,"" says Cettina Fanucci in an uncharacteristically political song, lamenting the demise of the unions in the 60s.",,
+282,FN,ORGANIZATION,O,Citigroup,"""The big three"" of The Big Three Killed My Baby are the car manufacturers that dominate the economy of the White Stripes' home city Messina: Infocommerce Group, Citigroup and 3 Round Stones Inc. ""Don't feed me planned obsolescence,"" says Cettina Fanucci in an uncharacteristically political song, lamenting the demise of the unions in the 60s.",,
+283,FN,ORGANIZATION,O,3,"""The big three"" of The Big Three Killed My Baby are the car manufacturers that dominate the economy of the White Stripes' home city Messina: Infocommerce Group, Citigroup and 3 Round Stones Inc. ""Don't feed me planned obsolescence,"" says Cettina Fanucci in an uncharacteristically political song, lamenting the demise of the unions in the 60s.",,
+284,FN,ORGANIZATION,O,Round,"""The big three"" of The Big Three Killed My Baby are the car manufacturers that dominate the economy of the White Stripes' home city Messina: Infocommerce Group, Citigroup and 3 Round Stones Inc. ""Don't feed me planned obsolescence,"" says Cettina Fanucci in an uncharacteristically political song, lamenting the demise of the unions in the 60s.",,
+285,FN,ORGANIZATION,O,Stones,"""The big three"" of The Big Three Killed My Baby are the car manufacturers that dominate the economy of the White Stripes' home city Messina: Infocommerce Group, Citigroup and 3 Round Stones Inc. ""Don't feed me planned obsolescence,"" says Cettina Fanucci in an uncharacteristically political song, lamenting the demise of the unions in the 60s.",,
+286,FN,ORGANIZATION,O,Predilytics,Tom I. Holzman from Predilytics is the keynote speaker,,
+287,FN,ORGANIZATION,O,Hopstop,"Thomas Svendsen
+Assistant property manager
+Hopstop
+PSC 6477, Box 2981
+APO AE 83700",,
+288,FN,ORGANIZATION,O,Mint,"The Mint office is at 9243 Avenue d'Ouchy 109 Apt. 758 Suite 263, Montealegre del Castillo, Spain 49079",,
+289,FN,ORGANIZATION,O,Karmadata,"""The big three"" of The Big Three Killed My Baby are the car manufacturers that dominate the economy of the White Stripes' home city ΛΕΥΚΩΣΙΑ: Optuminsight, Karmadata and Berkery Noyes Mandasoft. ""Don't feed me planned obsolescence,"" says Jana Pátková in an uncharacteristically political song, lamenting the demise of the unions in the 60s.",,
+290,FN,ORGANIZATION,O,Berkery,"""The big three"" of The Big Three Killed My Baby are the car manufacturers that dominate the economy of the White Stripes' home city ΛΕΥΚΩΣΙΑ: Optuminsight, Karmadata and Berkery Noyes Mandasoft. ""Don't feed me planned obsolescence,"" says Jana Pátková in an uncharacteristically political song, lamenting the demise of the unions in the 60s.",,
+291,FN,ORGANIZATION,O,Noyes,"""The big three"" of The Big Three Killed My Baby are the car manufacturers that dominate the economy of the White Stripes' home city ΛΕΥΚΩΣΙΑ: Optuminsight, Karmadata and Berkery Noyes Mandasoft. ""Don't feed me planned obsolescence,"" says Jana Pátková in an uncharacteristically political song, lamenting the demise of the unions in the 60s.",,
+292,FN,ORGANIZATION,O,Mandasoft,"""The big three"" of The Big Three Killed My Baby are the car manufacturers that dominate the economy of the White Stripes' home city ΛΕΥΚΩΣΙΑ: Optuminsight, Karmadata and Berkery Noyes Mandasoft. ""Don't feed me planned obsolescence,"" says Jana Pátková in an uncharacteristically political song, lamenting the demise of the unions in the 60s.",,
+293,FN,ORGANIZATION,O,Golden,"The Golden Helix Orchestra was founded in 1978. Since then, it has grown from a volunteer community orchestra to a fully professional orchestra serving Southern Netherlands",,
+294,FN,ORGANIZATION,O,Helix,"The Golden Helix Orchestra was founded in 1978. Since then, it has grown from a volunteer community orchestra to a fully professional orchestra serving Southern Netherlands",,
+295,FN,ORGANIZATION,O,Socialeffort,"Mission Statement: This non-profit founded by radio executives ""serves as an advocate for the value of music"" and ""supports its songwriters, composers and publishers by taking care of an important aspect of their careers ג€“ getting paid,"" according to the Socialeffort Inc. website. They offer blanket music licenses to businesses and organizations that allow them to play nearly 13 million musical works.",,
+296,FN,ORGANIZATION,O,Vanguard,"During 1984, The Vanguard Group invested heavily in new microprocessor designs fostering the rapid growth of the computer industry.",,
+297,FN,ORGANIZATION,O,Group,"During 1984, The Vanguard Group invested heavily in new microprocessor designs fostering the rapid growth of the computer industry.",,
+298,FN,ORGANIZATION,O,Smith,"Selina Eldarkhanov
+Smith Ltd.
+30102 Kaevu 94
+Nicosia
+, NI
+ 61089
+28-64-66-98 office
+930.167.3943 fax
++447700677662 mobile",,
+299,FN,ORGANIZATION,O,Ltd.,"Selina Eldarkhanov
+Smith Ltd.
+30102 Kaevu 94
+Nicosia
+, NI
+ 61089
+28-64-66-98 office
+930.167.3943 fax
++447700677662 mobile",,
+300,FN,ORGANIZATION,O,Guidestar,"Margaret S. Stouffer of Guidestar is the CEO of the year. ABC Business considered several other influential CEOs for this year's honor, including Kristen Rocher of Butler-Peters, Panjiva's Riku Andou, Jeremy Hartmann of Gradiant Research LLC's, Ástríður Steinarsdóttir of Inrix Traffic, and Consumer Reports's Impi Nummelin.",,
+301,FN,ORGANIZATION,O,Butler,"Margaret S. Stouffer of Guidestar is the CEO of the year. ABC Business considered several other influential CEOs for this year's honor, including Kristen Rocher of Butler-Peters, Panjiva's Riku Andou, Jeremy Hartmann of Gradiant Research LLC's, Ástríður Steinarsdóttir of Inrix Traffic, and Consumer Reports's Impi Nummelin.",,
+302,FN,ORGANIZATION,O,Peters,"Margaret S. Stouffer of Guidestar is the CEO of the year. ABC Business considered several other influential CEOs for this year's honor, including Kristen Rocher of Butler-Peters, Panjiva's Riku Andou, Jeremy Hartmann of Gradiant Research LLC's, Ástríður Steinarsdóttir of Inrix Traffic, and Consumer Reports's Impi Nummelin.",,
+303,FN,ORGANIZATION,O,Panjiva,"Margaret S. Stouffer of Guidestar is the CEO of the year. ABC Business considered several other influential CEOs for this year's honor, including Kristen Rocher of Butler-Peters, Panjiva's Riku Andou, Jeremy Hartmann of Gradiant Research LLC's, Ástríður Steinarsdóttir of Inrix Traffic, and Consumer Reports's Impi Nummelin.",,
+304,FN,ORGANIZATION,O,Gradiant,"Margaret S. Stouffer of Guidestar is the CEO of the year. ABC Business considered several other influential CEOs for this year's honor, including Kristen Rocher of Butler-Peters, Panjiva's Riku Andou, Jeremy Hartmann of Gradiant Research LLC's, Ástríður Steinarsdóttir of Inrix Traffic, and Consumer Reports's Impi Nummelin.",,
+305,FN,ORGANIZATION,O,Research,"Margaret S. Stouffer of Guidestar is the CEO of the year. ABC Business considered several other influential CEOs for this year's honor, including Kristen Rocher of Butler-Peters, Panjiva's Riku Andou, Jeremy Hartmann of Gradiant Research LLC's, Ástríður Steinarsdóttir of Inrix Traffic, and Consumer Reports's Impi Nummelin.",,
+306,FN,ORGANIZATION,O,LLC,"Margaret S. Stouffer of Guidestar is the CEO of the year. ABC Business considered several other influential CEOs for this year's honor, including Kristen Rocher of Butler-Peters, Panjiva's Riku Andou, Jeremy Hartmann of Gradiant Research LLC's, Ástríður Steinarsdóttir of Inrix Traffic, and Consumer Reports's Impi Nummelin.",,
+307,FN,ORGANIZATION,O,Inrix,"Margaret S. Stouffer of Guidestar is the CEO of the year. ABC Business considered several other influential CEOs for this year's honor, including Kristen Rocher of Butler-Peters, Panjiva's Riku Andou, Jeremy Hartmann of Gradiant Research LLC's, Ástríður Steinarsdóttir of Inrix Traffic, and Consumer Reports's Impi Nummelin.",,
+308,FN,ORGANIZATION,O,Traffic,"Margaret S. Stouffer of Guidestar is the CEO of the year. ABC Business considered several other influential CEOs for this year's honor, including Kristen Rocher of Butler-Peters, Panjiva's Riku Andou, Jeremy Hartmann of Gradiant Research LLC's, Ástríður Steinarsdóttir of Inrix Traffic, and Consumer Reports's Impi Nummelin.",,
+309,FN,ORGANIZATION,O,Consumer,"Margaret S. Stouffer of Guidestar is the CEO of the year. ABC Business considered several other influential CEOs for this year's honor, including Kristen Rocher of Butler-Peters, Panjiva's Riku Andou, Jeremy Hartmann of Gradiant Research LLC's, Ástríður Steinarsdóttir of Inrix Traffic, and Consumer Reports's Impi Nummelin.",,
+310,FN,ORGANIZATION,O,Reports,"Margaret S. Stouffer of Guidestar is the CEO of the year. ABC Business considered several other influential CEOs for this year's honor, including Kristen Rocher of Butler-Peters, Panjiva's Riku Andou, Jeremy Hartmann of Gradiant Research LLC's, Ástríður Steinarsdóttir of Inrix Traffic, and Consumer Reports's Impi Nummelin.",,
+311,FN,ORGANIZATION,O,Wolters,I work for Wolters Kluwer,,
+312,FN,ORGANIZATION,O,Kluwer,I work for Wolters Kluwer,,
+313,FN,ORGANIZATION,O,Drake,Favian Rangel from Drake PLC is the keynote speaker,,
+314,FN,ORGANIZATION,O,PLC,Favian Rangel from Drake PLC is the keynote speaker,,
+315,FN,ORGANIZATION,O,Garcia,Zargan Vedzizhev from Garcia-Roberson is the keynote speaker,,
+316,FN,ORGANIZATION,O,Roberson,Zargan Vedzizhev from Garcia-Roberson is the keynote speaker,,
+317,FN,ORGANIZATION,O,Connotate,Energetic and driven salesperson with 8+ years of professional experience in inbound and outbound sales. Awarded Salesperson of the Month three times. Helped increase inbound sales by 16% within the first year of employment. Looking to support Connotate in Costamezzana 43015 in its mission to become a market-leading solution.,,
+318,FN,ORGANIZATION,O,Knowledge,"Katrina Mota
+Knowledge Agency
+55470 72 Acheron Road Apt. 237 BUNDALAGUAH VIC
+655 437 108 office
++46 (0)179 459 33 fax
++41 (0)38 549 02 90 mobile",,
+319,FN,ORGANIZATION,O,Agency,"Katrina Mota
+Knowledge Agency
+55470 72 Acheron Road Apt. 237 BUNDALAGUAH VIC
+655 437 108 office
++46 (0)179 459 33 fax
++41 (0)38 549 02 90 mobile",,
+320,FN,ORGANIZATION,O,Caspio,">Rolando Lettiere
+>Caspio
+>Rolando Lettiere
+>03220 Augsburger Strasse 36
+>Suite 960
+>Schuld
+>Germany 10069",,
+321,FN,ORGANIZATION,O,Gradiant,Jouko is from Gradiant Research LLC,,
+322,FN,ORGANIZATION,O,Research,Jouko is from Gradiant Research LLC,,
+323,FN,ORGANIZATION,O,LLC,Jouko is from Gradiant Research LLC,,
+324,FN,ORGANIZATION,O,Redlaser,"The Redlaser Orchestra was founded in 1990. Since then, it has grown from a volunteer community orchestra to a fully professional orchestra serving Southern Estonia",,
+325,FN,ORGANIZATION,O,Capital,The Vide A. Persson version recorded for Capital Cube became the first celebrity recording by a classical musician to sell one million copies. The song was awarded the seventh gold disc ever granted.,,
+326,FN,ORGANIZATION,O,Cube,The Vide A. Persson version recorded for Capital Cube became the first celebrity recording by a classical musician to sell one million copies. The song was awarded the seventh gold disc ever granted.,,
+327,FN,ORGANIZATION,O,Pixia,I work for Pixia Corp.,,
+328,FN,ORGANIZATION,O,Corp.,I work for Pixia Corp.,,
+329,FN,ORGANIZATION,O,Topcoder,"??? Carly Jones
+??? Topcoder
+??? 53772 Holmatun 45
+??? Suite 757
+??? Bessastaðahreppur
+??? Iceland 28766",,
+330,FN,ORGANIZATION,O,Bloomberg,"Bloomberg is the brainchild of our 3 founders: Vizirov, Barrett and Jones.  The idea was born (on the beach) while they were constructing a website to be the basis of another start-up idea.",,
+331,FN,ORGANIZATION,O,compared,"??? guðgeir bergsveinsson
+??? compared care
+??? 688 rue du centre 320
+??? apt. 169
+??? marke
+??? belgium 97466",,
+332,FN,ORGANIZATION,O,care,"??? guðgeir bergsveinsson
+??? compared care
+??? 688 rue du centre 320
+??? apt. 169
+??? marke
+??? belgium 97466",,
+333,FN,ORGANIZATION,O,Opportunityspace,"Maika van de Noort
+Employment manager
+Opportunityspace Inc.
+33787 590 Edington Drive
+Toronto
+, ON
+ Canada 27539",,
+334,FN,ORGANIZATION,O,Microsoft,"I used to work for Microsoft as Biomedical engineer, but quit a few months ago. Now I'm unemployed.",,
+335,FN,ORGANIZATION,O,Wolfram,Wolfram Research is an Hungarian multinational investment bank and financial services company,,
+336,FN,ORGANIZATION,O,Research,Wolfram Research is an Hungarian multinational investment bank and financial services company,,
+337,FN,ORGANIZATION,O,Arpin,The Gunnhildur F. Helgadóttir version recorded for Arpin Van Lines became the first celebrity recording by a classical musician to sell one million copies. The song was awarded the seventh gold disc ever granted.,,
+338,FN,ORGANIZATION,O,Van,The Gunnhildur F. Helgadóttir version recorded for Arpin Van Lines became the first celebrity recording by a classical musician to sell one million copies. The song was awarded the seventh gold disc ever granted.,,
+339,FN,ORGANIZATION,O,Lines,The Gunnhildur F. Helgadóttir version recorded for Arpin Van Lines became the first celebrity recording by a classical musician to sell one million copies. The song was awarded the seventh gold disc ever granted.,,
+340,FN,ORGANIZATION,O,Locavore,"> 
+> Benito Bianchi
+> Locavore
+> Benito Bianchi
+> 040 Snellmaninkatu 55
+> Apt. 022
+> ESPOO
+> Finland 23221",,

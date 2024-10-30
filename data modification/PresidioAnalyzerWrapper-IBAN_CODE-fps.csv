@@ -1,0 +1,4 @@
+,error_type,annotation,prediction,token,full_text,sample_id,0
+0,FP,O,IBAN_CODE,NYWAKNTDXXX,"Dear Lonzo August, for the exchange program, please provide your banking details - ME49016030034030600469 and NYWAKNTDXXX as soon as you can.",,
+1,FP,O,IBAN_CODE,code,"Patient Euna, please note down the payment details. Use the BH44QMKK6050V6K5790590 code for wiring the payment. Do contact us if you need any assistance.",,
+2,FP,O,IBAN_CODE,wiring,"Patient Euna, please note down the payment details. Use the BH44QMKK6050V6K5790590 code for wiring the payment. Do contact us if you need any assistance.",,
