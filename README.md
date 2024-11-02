@@ -13,9 +13,20 @@ In addition, it contains a fake data generator which creates fake sentences base
 
 ## Getting started
 
+
+### Using notebooks
+The easiest way to get started is to look at the notebooks. 
+- [Notebook 1](notebooks/1_Generate_data.ipynb): Shows how to use the PII data generator.
+- [Notebook 2](notebooks/2_PII_EDA.ipynb): Shows a simple analysis of the PII dataset.
+- [Notebook 3](notebooks/3_Split_by_pattern_number.ipynb): Provides tools to split the dataset to train/test/validation while avoiding leakage due to the same pattern appearning in multiple folds (only applicable for synthetically generated data).
+- [Notebook 4](notebooks/4_Evaluate_Presidio_Analyzer.ipynb): Shows how to use the evaluation tools to evaluate how well Presidio detects PII. Note that this is using the vanilla Presidio, and the results aren't very accurate.
+- [Notebook 5](notebooks/5_Evaluate_Custom_Presidio_Analyzer.ipynb): Shows how one can configure Presidio to detect PII much more accurately, and boost the f score in ~30%.
+
+### Installation
+
 >Note: Presidio evaluator requires Python>=3.9
 
-### From PyPI
+#### From PyPI
 
 ``` sh
 conda create --name presidio python=3.9
@@ -26,7 +37,7 @@ pip install presidio-evaluator
 python -m spacy download en_core_web_lg
 ```
 
-### From source
+#### From source
 
 To install the package:
 1. Clone the repo
@@ -37,7 +48,7 @@ To install the package:
 pip install poetry
 poetry install --with=dev
 
-# To install with all additional NER dependencies (e.g. Flair, Stanza), run:
+# To install with all additional NER dependencies (e.g. Flair, Stanza, CRF), run:
 # poetry install --with='ner,dev'
 
 # Download a spaCy model used by presidio-analyzer
@@ -53,7 +64,7 @@ Note that some dependencies (such as Flair and Stanza) are not automatically ins
 
 1. **Fake data generator** for PII recognizers and NER models
 2. **Data representation layer** for data generation, modeling and analysis
-3. Multiple **Model/Recognizer evaluation** files (e.g. for Spacy, Flair, Presidio API, Presidio Analyzer python package, specific Presidio recognizers)
+3. Multiple **Model/Recognizer evaluation** files (e.g. for Spacy, Flair, CRF, Presidio API, Presidio Analyzer python package, specific Presidio recognizers)
 4. **Training and modeling code** for multiple models
 5. Helper functions for **results analysis**
 
@@ -114,17 +125,14 @@ InputSample.to_json(dataset, output_file="dataset_json")
 ## 3. PII models evaluation
 
 The presidio-evaluator framework allows you to evaluate Presidio as a system, a NER model, 
-or a specific PII recognizer for precision and recall and error-analysis.
+or a specific PII recognizer for precision and recall and error-analysis. See [Notebook 5](notebooks/5_Evaluate_Custom_Presidio_Analyzer) for an example.
 
-
-### Examples:
-- [Evaluate Presidio](notebooks/4_Evaluate_Presidio_Analyzer.ipynb)
-- [Evaluate spaCy models](notebooks/models/Evaluate%20spacy%20models.ipynb)
-- [Evaluate Stanza models](notebooks/models/Evaluate%20stanza%20models.ipynb)
-- [Evaluate Flair models](notebooks/models/Evaluate%20flair%20models.ipynb)
-- [Evaluate Azure Text Analytics](notebooks/models/Evaluate%20azure%20text%20analytics.ipynb)
 
 ## 4. Training PII detection models
+
+### CRF
+
+To train a vanilla CRF on a new dataset, see [this notebook](notebooks/models/Train%20CRF.ipynb). To evaluate, see [this notebook](notebooks/models/Evaluate%20CRF%20models.ipynb).
 
 ### spaCy
 
