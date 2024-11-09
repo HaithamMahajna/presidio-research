@@ -1,4 +1,0 @@
-,error_type,annotation,prediction,token,full_text,sample_id,0
-0,FN,LOCATION,O,Cronin,"Our records mention that you have recently changed your Cronin Course and Suite 737. As we send weekly alerts and therapy materials to your location, we ask you to confirm this change.",,
-1,FN,LOCATION,O,Course,"Our records mention that you have recently changed your Cronin Course and Suite 737. As we send weekly alerts and therapy materials to your location, we ask you to confirm this change.",,
-2,FN,LOCATION,O,737,"Our records mention that you have recently changed your Cronin Course and Suite 737. As we send weekly alerts and therapy materials to your location, we ask you to confirm this change.",,

@@ -1,4 +1,0 @@
-,error_type,annotation,prediction,token,full_text,sample_id,0
-0,FP,O,PERSON,FJD,"""To guarantee the fairness of our assessments we monitor data points such as FJD and 257k utilized for transactions. Do note that revealing your a4O0ARjeKE9G or 0544 to third parties breaks our security policy.""",,
-1,FP,O,PERSON,"211,884.23","A report from our Planner revealed missed payments of property tax for 35663729. Please, don't ignore this and make a payment of 211,884.23 KM.",,
-2,FP,O,PERSON,KM,"A report from our Planner revealed missed payments of property tax for 35663729. Please, don't ignore this and make a payment of 211,884.23 KM.",,
