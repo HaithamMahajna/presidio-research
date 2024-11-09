@@ -1,4 +1,0 @@
-,error_type,annotation,prediction,token,full_text,sample_id,0
-0,FP,O,IP_ADDRESS,c2cb:5d6b:0e1e:2afc,We need funding for new mathematics textbooks. Donations in BND or Turkish Lira are highly appreciated. Contact c2cb:5d6b:0e1e:2afc:de76:64a6:3ea5:eeab for more details.,,
-1,FP,O,IP_ADDRESS,de76:64a6:3ea5,We need funding for new mathematics textbooks. Donations in BND or Turkish Lira are highly appreciated. Contact c2cb:5d6b:0e1e:2afc:de76:64a6:3ea5:eeab for more details.,,
-2,FP,O,IP_ADDRESS,eeab,We need funding for new mathematics textbooks. Donations in BND or Turkish Lira are highly appreciated. Contact c2cb:5d6b:0e1e:2afc:de76:64a6:3ea5:eeab for more details.,,

@@ -1,38 +1,368 @@
 [
-{
-    "full_text": "89200-3325 schools are next in line for education reform pilot program. Mobility team, prepare accordingly!",
-    "masked": "[ZIPCODE] schools are next in line for education reform pilot program. [JOBAREA] team, prepare accordingly!",
-    "spans": [
-        {
-            "entity_type": "ZIPCODE",
-            "entity_value": "89200-3325",
-            "start_position": 0,
-            "end_position": 10
-        },
-        {
-            "entity_type": "JOBAREA",
-            "entity_value": "Mobility",
-            "start_position": 72,
-            "end_position": 80
-        }
-    ]
-},
-{
-    "full_text": "Jessyca, you should compare our performance to the industry averages. This includes leads, conversion rates, bounce rates, page views, average spend per customer, and customer acquisition costs. Send a report to Roosevelt_Kshlerin@yahoo.com.",
-    "masked": "[FIRSTNAME], you should compare our performance to the industry averages. This includes leads, conversion rates, bounce rates, page views, average spend per customer, and customer acquisition costs. Send a report to [EMAIL].",
-    "spans": [
-        {
-            "entity_type": "FIRSTNAME",
-            "entity_value": "Jessyca",
-            "start_position": 0,
-            "end_position": 7
-        },
-        {
-            "entity_type": "EMAIL",
-            "entity_value": "Roosevelt_Kshlerin@yahoo.com",
-            "start_position": 212,
-            "end_position": 240
-        }
-    ]
-}
+    {
+        "full_text": "89200-3325 schools are next in line for education reform pilot program. Mobility team, prepare accordingly!",
+        "masked": "[ZIPCODE] schools are next in line for education reform pilot program. [JOBAREA] team, prepare accordingly!",
+        "spans": [
+            {
+                "entity_type": "ZIPCODE",
+                "entity_value": "89200-3325",
+                "start_position": 0,
+                "end_position": 10
+            },
+            {
+                "entity_type": "JOBAREA",
+                "entity_value": "Mobility",
+                "start_position": 72,
+                "end_position": 80
+            }
+        ]
+    },
+    {
+        "full_text": "Jessyca, you should compare our performance to the industry averages. This includes leads, conversion rates, bounce rates, page views, average spend per customer, and customer acquisition costs. Send a report to Roosevelt_Kshlerin@yahoo.com.",
+        "masked": "[FIRSTNAME], you should compare our performance to the industry averages. This includes leads, conversion rates, bounce rates, page views, average spend per customer, and customer acquisition costs. Send a report to [EMAIL].",
+        "spans": [
+            {
+                "entity_type": "FIRSTNAME",
+                "entity_value": "Jessyca",
+                "start_position": 0,
+                "end_position": 7
+            },
+            {
+                "entity_type": "EMAIL",
+                "entity_value": "Roosevelt_Kshlerin@yahoo.com",
+                "start_position": 212,
+                "end_position": 240
+            }
+        ]
+    },
+    {
+        "full_text": "We need funding for new mathematics textbooks. Donations in BND or Turkish Lira are highly appreciated. Contact c2cb:5d6b:0e1e:2afc:de76:64a6:3ea5:eeab for more details.",
+        "masked": "We need funding for new mathematics textbooks. Donations in [CURRENCYCODE] or [CURRENCYNAME] are highly appreciated. Contact [IP] for more details.",
+        "spans": [
+            {
+                "entity_type": "CURRENCYCODE",
+                "entity_value": "BND",
+                "start_position": 60,
+                "end_position": 63
+            },
+            {
+                "entity_type": "CURRENCYNAME",
+                "entity_value": "Turkish Lira",
+                "start_position": 67,
+                "end_position": 79
+            },
+            {
+                "entity_type": "IP",
+                "entity_value": "c2cb:5d6b:0e1e:2afc:de76:64a6:3ea5:eeab",
+                "start_position": 112,
+                "end_position": 151
+            }
+        ]
+    },
+    {
+        "full_text": "\"To guarantee the fairness of our assessments we monitor data points such as FJD and 257k utilized for transactions. Do note that revealing your a4O0ARjeKE9G or 0544 to third parties breaks our security policy.\"",
+        "masked": "\"To guarantee the fairness of our assessments we monitor data points such as [CURRENCYCODE] and [AMOUNT] utilized for transactions. Do note that revealing your [PASSWORD] or [PIN] to third parties breaks our security policy.\"",
+        "spans": [
+            {
+                "entity_type": "CURRENCYCODE",
+                "entity_value": "FJD",
+                "start_position": 77,
+                "end_position": 80
+            },
+            {
+                "entity_type": "AMOUNT",
+                "entity_value": "257k",
+                "start_position": 85,
+                "end_position": 89
+            },
+            {
+                "entity_type": "PASSWORD",
+                "entity_value": "a4O0ARjeKE9G",
+                "start_position": 145,
+                "end_position": 157
+            },
+            {
+                "entity_type": "PIN",
+                "entity_value": "0544",
+                "start_position": 161,
+                "end_position": 165
+            }
+        ]
+    },
+    {
+        "full_text": "Dear Amely, due to the high demand, the early bird registration fees ₱889218 for the upcoming Intellectual Property Law webinar have been extended to 1929-11-13T02:09:09.402Z. Kindly apply at your earliest convenience.",
+        "masked": "Dear [FIRSTNAME], due to the high demand, the early bird registration fees [CURRENCYSYMBOL][AMOUNT] for the upcoming Intellectual Property Law webinar have been extended to [DATE]. Kindly apply at your earliest convenience.",
+        "spans": [
+            {
+                "entity_type": "FIRSTNAME",
+                "entity_value": "Amely",
+                "start_position": 5,
+                "end_position": 10
+            },
+            {
+                "entity_type": "CURRENCYSYMBOL",
+                "entity_value": "₱",
+                "start_position": 69,
+                "end_position": 70
+            },
+            {
+                "entity_type": "AMOUNT",
+                "entity_value": "889218",
+                "start_position": 70,
+                "end_position": 76
+            },
+            {
+                "entity_type": "DATE",
+                "entity_value": "1929-11-13T02:09:09.402Z",
+                "start_position": 150,
+                "end_position": 174
+            }
+        ]
+    },
+    {
+        "full_text": "Opportunities for Developer role in Saarland. Check out the details sent to Lura28@gmail.com.",
+        "masked": "Opportunities for [JOBTYPE] role in [STATE]. Check out the details sent to [EMAIL].",
+        "spans": [
+            {
+                "entity_type": "JOBTYPE",
+                "entity_value": "Developer",
+                "start_position": 18,
+                "end_position": 27
+            },
+            {
+                "entity_type": "STATE",
+                "entity_value": "Saarland",
+                "start_position": 36,
+                "end_position": 44
+            },
+            {
+                "entity_type": "EMAIL",
+                "entity_value": "Lura28@gmail.com",
+                "start_position": 76,
+                "end_position": 92
+            }
+        ]
+    },
+    {
+        "full_text": "Our records mention that you have recently changed your Cronin Course and Suite 737. As we send weekly alerts and therapy materials to your location, we ask you to confirm this change.",
+        "masked": "Our records mention that you have recently changed your [STREET] and [SECONDARYADDRESS]. As we send weekly alerts and therapy materials to your location, we ask you to confirm this change.",
+        "spans": [
+            {
+                "entity_type": "STREET",
+                "entity_value": "Cronin Course",
+                "start_position": 56,
+                "end_position": 69
+            },
+            {
+                "entity_type": "SECONDARYADDRESS",
+                "entity_value": "Suite 737",
+                "start_position": 74,
+                "end_position": 83
+            }
+        ]
+    },
+    {
+        "full_text": "Reveal not your Ethereum address 0x728d9bf9d9db0fdb24a732c5ea02daca39ec83bf or password biUaxoZNDrJe. This can invite theft or hacking attempts.",
+        "masked": "Reveal not your Ethereum address [ETHEREUMADDRESS] or password [PASSWORD]. This can invite theft or hacking attempts.",
+        "spans": [
+            {
+                "entity_type": "ETHEREUMADDRESS",
+                "entity_value": "0x728d9bf9d9db0fdb24a732c5ea02daca39ec83bf",
+                "start_position": 33,
+                "end_position": 75
+            },
+            {
+                "entity_type": "PASSWORD",
+                "entity_value": "biUaxoZNDrJe",
+                "start_position": 88,
+                "end_position": 100
+            }
+        ]
+    },
+    {
+        "full_text": "Collecting data from Bigender aged 32. Works as Customer Factors Orchestrator located at East Jadatown, Molise. Email: Vinnie_Grant@gmail.com for details.",
+        "masked": "Collecting data from [GENDER] aged [AGE]. Works as [JOBTITLE] located at [CITY], [STATE]. Email: [EMAIL] for details.",
+        "spans": [
+            {
+                "entity_type": "GENDER",
+                "entity_value": "Bigender",
+                "start_position": 21,
+                "end_position": 29
+            },
+            {
+                "entity_type": "AGE",
+                "entity_value": "32",
+                "start_position": 35,
+                "end_position": 37
+            },
+            {
+                "entity_type": "JOBTITLE",
+                "entity_value": "Customer Factors Orchestrator",
+                "start_position": 48,
+                "end_position": 77
+            },
+            {
+                "entity_type": "CITY",
+                "entity_value": "East Jadatown",
+                "start_position": 89,
+                "end_position": 102
+            },
+            {
+                "entity_type": "STATE",
+                "entity_value": "Molise",
+                "start_position": 104,
+                "end_position": 110
+            },
+            {
+                "entity_type": "EMAIL",
+                "entity_value": "Vinnie_Grant@gmail.com",
+                "start_position": 119,
+                "end_position": 141
+            }
+        ]
+    },
+    {
+        "full_text": "A report from our Planner revealed missed payments of property tax for 35663729. Please, don't ignore this and make a payment of 211,884.23 KM.",
+        "masked": "A report from our [JOBTYPE] revealed missed payments of property tax for [ACCOUNTNUMBER]. Please, don't ignore this and make a payment of [AMOUNT] [CURRENCYSYMBOL].",
+        "spans": [
+            {
+                "entity_type": "JOBTYPE",
+                "entity_value": "Planner",
+                "start_position": 18,
+                "end_position": 25
+            },
+            {
+                "entity_type": "ACCOUNTNUMBER",
+                "entity_value": "35663729",
+                "start_position": 71,
+                "end_position": 79
+            },
+            {
+                "entity_type": "AMOUNT",
+                "entity_value": "211,884.23",
+                "start_position": 129,
+                "end_position": 139
+            },
+            {
+                "entity_type": "CURRENCYSYMBOL",
+                "entity_value": "KM",
+                "start_position": 140,
+                "end_position": 142
+            }
+        ]
+    },
+    {
+        "full_text": "For finance, Cristopher, please pay attention to the new account which has been opened for foreign transactions. Please transfer the amount of 770381 LBP to our affiliate company through the new account using MU75UQCQ2018430401875370274AEY.",
+        "masked": "For finance, [FIRSTNAME], please pay attention to the new account which has been opened for foreign transactions. Please transfer the amount of [AMOUNT] [CURRENCYCODE] to our affiliate company through the new account using [IBAN].",
+        "spans": [
+            {
+                "entity_type": "FIRSTNAME",
+                "entity_value": "Cristopher",
+                "start_position": 13,
+                "end_position": 23
+            },
+            {
+                "entity_type": "AMOUNT",
+                "entity_value": "770381",
+                "start_position": 143,
+                "end_position": 149
+            },
+            {
+                "entity_type": "CURRENCYCODE",
+                "entity_value": "LBP",
+                "start_position": 150,
+                "end_position": 153
+            },
+            {
+                "entity_type": "IBAN",
+                "entity_value": "MU75UQCQ2018430401875370274AEY",
+                "start_position": 209,
+                "end_position": 239
+            }
+        ]
+    },
+    {
+        "full_text": "Eduardo, your online behavioral therapy module password Q9D92Joov1bO has been reset. You can access the course materials with your username Anastasia_Friesen-Dach at our website https://deadly-hawk.biz/. If any issues arise, please contact our tech support team.",
+        "masked": "[FIRSTNAME], your online behavioral therapy module password [PASSWORD] has been reset. You can access the course materials with your username [USERNAME] at our website [URL]. If any issues arise, please contact our tech support team.",
+        "spans": [
+            {
+                "entity_type": "FIRSTNAME",
+                "entity_value": "Eduardo",
+                "start_position": 0,
+                "end_position": 7
+            },
+            {
+                "entity_type": "PASSWORD",
+                "entity_value": "Q9D92Joov1bO",
+                "start_position": 56,
+                "end_position": 68
+            },
+            {
+                "entity_type": "USERNAME",
+                "entity_value": "Anastasia_Friesen-Dach",
+                "start_position": 140,
+                "end_position": 162
+            },
+            {
+                "entity_type": "URL",
+                "entity_value": "https://deadly-hawk.biz/",
+                "start_position": 178,
+                "end_position": 202
+            }
+        ]
+    },
+    {
+        "full_text": "I need to order a new EKG machine. The invoice should be sent to our building number, 841 and make sure they charge it to the company card (6036994285533224).",
+        "masked": "I need to order a new EKG machine. The invoice should be sent to our building number, [BUILDINGNUMBER] and make sure they charge it to the company card ([CREDITCARDNUMBER]).",
+        "spans": [
+            {
+                "entity_type": "BUILDINGNUMBER",
+                "entity_value": "841",
+                "start_position": 86,
+                "end_position": 89
+            },
+            {
+                "entity_type": "CREDITCARDNUMBER",
+                "entity_value": "6036994285533224",
+                "start_position": 140,
+                "end_position": 156
+            }
+        ]
+    },
+    {
+        "full_text": "Twice a year, we review our data security measures. The next review will be on August 15, 1902. Please make sure all hospital computers have the updated UserAgent Opera/9.49 (X11; Linux i686; U; PL Presto/2.9.164 Version/10.00).",
+        "masked": "Twice a year, we review our data security measures. The next review will be on [DATE]. Please make sure all hospital computers have the updated UserAgent [USERAGENT].",
+        "spans": [
+            {
+                "entity_type": "DATE",
+                "entity_value": "August 15, 1902",
+                "start_position": 79,
+                "end_position": 94
+            },
+            {
+                "entity_type": "USERAGENT",
+                "entity_value": "Opera/9.49 (X11; Linux i686; U; PL Presto/2.9.164 Version/10.00)",
+                "start_position": 163,
+                "end_position": 227
+            }
+        ]
+    },
+    {
+        "full_text": "Arranged TYWD62YXHFAD93954 for geriatric transportation. Use the PIN 8741 for keyless entry.",
+        "masked": "Arranged [VEHICLEVIN] for geriatric transportation. Use the PIN [PIN] for keyless entry.",
+        "spans": [
+            {
+                "entity_type": "VEHICLEVIN",
+                "entity_value": "TYWD62YXHFAD93954",
+                "start_position": 9,
+                "end_position": 26
+            },
+            {
+                "entity_type": "PIN",
+                "entity_value": "8741",
+                "start_position": 69,
+                "end_position": 73
+            }
+        ]
+    }
 ]

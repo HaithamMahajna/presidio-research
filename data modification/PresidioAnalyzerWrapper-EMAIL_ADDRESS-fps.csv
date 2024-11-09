@@ -1,3 +1,0 @@
-,error_type,annotation,prediction,token,full_text,sample_id,0
-0,FP,O,EMAIL_ADDRESS,admin@peertutor.com,"Payment notice for Palma, could you please confirm your DO98WZBB16008580030829050139 and TGVVCU0JXXX? Please send the verification to admin@peertutor.com.",,
-1,FP,O,EMAIL_ADDRESS,legal@lawfirm.com,"Linwood Considine, We noticed that you accessed our website https://optimal-perp.name via mac address 84:fb:35:04:c2:0a. Your visit violates our terms of use. Contact legal@lawfirm.com to prevent legal action.",,
