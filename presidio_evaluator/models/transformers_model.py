@@ -4,35 +4,32 @@ from presidio_evaluator import InputSample, span_to_tag
 from presidio_evaluator.models import BaseModel
 from presidio_analyzer import AnalyzerEngine, EntityRecognizer, BatchAnalyzerEngine
 
-transformers_model = pipeline("token-classification", model="lakshyakh93/deberta_finetuned_pii")
 
-class transformers_deberta_finetuned_pii(BaseModel) :
+
+class transformers_model(BaseModel) :
     def __init__(self,
-                 entity_mapping: Optional[Dict[str, str]] = None,
-        analyzer_engine: Optional[AnalyzerEngine] = None,
+        entity_mapping: Optional[Dict[str, str]] = None,
         entities_to_keep: List[str] = None,
         verbose: bool = False,
         labeling_scheme: str = "BIO",
-        score_threshold: float = 0.4,
-        language: str = "en",
-        ad_hoc_recognizers: Optional[List[EntityRecognizer]] = None,
-        context: Optional[List[str]] = None,
-        allow_list: Optional[List[str]] = None,):
+        model_name: str = None,
+        aggregation_strategy:str = None,):
         super().__init__(
             entities_to_keep=entities_to_keep,
             verbose=verbose,
             labeling_scheme=labeling_scheme,
             entity_mapping=entity_mapping,
         )
-        self.score_threshold = score_threshold
-        self.language = language
-        self.ad_hoc_recognizers = ad_hoc_recognizers
-        self.context = context
-        self.allow_list = allow_list
+        self.model_name = model_name
+        self.aggregation_strategy = aggregation_strategy
+        if self.model_name : self.transformers_model = pipeline("token-classification", model=self.model_name)
+        if not self.model_name : self.transformers_model = pipeline("token-classification", model="lakshyakh93/deberta_finetuned_pii")
+        
 
     def predict (self,sample) -> List[str]: 
         if type(sample)==str : sample = InputSample(full_text=sample)
-        prediction = transformers_model(sample.full_text, aggregation_strategy="first")
+        if not self.aggregation_strategy : self.aggregation_strategy = "first"
+        prediction = self.transformers_model(sample.full_text, aggregation_strategy=self.aggregation_strategy)
         predictions = self.__recognizer_results_to_tags(prediction, sample)
         return predictions
     
@@ -40,6 +37,11 @@ class transformers_deberta_finetuned_pii(BaseModel) :
         predictions = []
         for data in dataset : 
             predictions.append(self.predict(data))
+            if self.entity_mapping :
+                  for prediction in range(len(predictions)) : 
+                      for i in range(len(predictions[prediction])):
+                          if predictions[prediction][i] in self.entity_mapping :
+                              predictions[prediction][i] = self.entity_mapping[predictions[prediction][i]]
         return predictions
 
 

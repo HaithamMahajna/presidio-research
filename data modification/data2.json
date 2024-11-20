@@ -364,5 +364,2297 @@
                 "end_position": 73
             }
         ]
+    },
+    {
+        "full_text": "Confirmed career counseling appointment for 68 years old, Male in Martinique. Details sent to Willow_White@hotmail.com.",
+        "masked": "Confirmed career counseling appointment for [AGE] old, [SEX] in [STATE]. Details sent to [EMAIL].",
+        "spans": [
+            {
+                "entity_type": "AGE",
+                "entity_value": "68 years",
+                "start_position": 44,
+                "end_position": 52
+            },
+            {
+                "entity_type": "SEX",
+                "entity_value": "Male",
+                "start_position": 58,
+                "end_position": 62
+            },
+            {
+                "entity_type": "STATE",
+                "entity_value": "Martinique",
+                "start_position": 66,
+                "end_position": 76
+            },
+            {
+                "entity_type": "EMAIL",
+                "entity_value": "Willow_White@hotmail.com",
+                "start_position": 94,
+                "end_position": 118
+            }
+        ]
+    },
+    {
+        "full_text": "Hi Miss,\nI have been reading about animal-assisted therapy and would love to know more from your perspective in Operations. Could you share the details of the programs at Adams County office? You can forward the info to Jude82.",
+        "masked": "Hi [PREFIX],\nI have been reading about animal-assisted therapy and would love to know more from your perspective in [JOBAREA]. Could you share the details of the programs at [COUNTY] office? You can forward the info to [USERNAME].",
+        "spans": [
+            {
+                "entity_type": "PREFIX",
+                "entity_value": "Miss",
+                "start_position": 3,
+                "end_position": 7
+            },
+            {
+                "entity_type": "JOBAREA",
+                "entity_value": "Operations",
+                "start_position": 112,
+                "end_position": 122
+            },
+            {
+                "entity_type": "COUNTY",
+                "entity_value": "Adams County",
+                "start_position": 171,
+                "end_position": 183
+            },
+            {
+                "entity_type": "USERNAME",
+                "entity_value": "Jude82",
+                "start_position": 220,
+                "end_position": 226
+            }
+        ]
+    },
+    {
+        "full_text": "The team is stationed at the secondary address Suite 881 on street Amie Manor. The importance of securing global health cannot be underestimated.",
+        "masked": "The team is stationed at the secondary address [SECONDARYADDRESS] on street [STREET]. The importance of securing global health cannot be underestimated.",
+        "spans": [
+            {
+                "entity_type": "SECONDARYADDRESS",
+                "entity_value": "Suite 881",
+                "start_position": 47,
+                "end_position": 56
+            },
+            {
+                "entity_type": "STREET",
+                "entity_value": "Amie Manor",
+                "start_position": 67,
+                "end_position": 77
+            }
+        ]
+    },
+    {
+        "full_text": "Upon examining the crime scene located at Oxford Street number 347, CCTV footage provides important evidence. Need your analysis by 2 o'clock.",
+        "masked": "Upon examining the crime scene located at [STREET] number [BUILDINGNUMBER], CCTV footage provides important evidence. Need your analysis by [TIME].",
+        "spans": [
+            {
+                "entity_type": "STREET",
+                "entity_value": "Oxford Street",
+                "start_position": 42,
+                "end_position": 55
+            },
+            {
+                "entity_type": "BUILDINGNUMBER",
+                "entity_value": "347",
+                "start_position": 63,
+                "end_position": 66
+            },
+            {
+                "entity_type": "TIME",
+                "entity_value": "2 o'clock",
+                "start_position": 132,
+                "end_position": 141
+            }
+        ]
+    },
+    {
+        "full_text": "Investment Account with account number 93147299 will be used to bear the cost of our business continuity training. Please include this in the planning.",
+        "masked": "[ACCOUNTNAME] with account number [ACCOUNTNUMBER] will be used to bear the cost of our business continuity training. Please include this in the planning.",
+        "spans": [
+            {
+                "entity_type": "ACCOUNTNAME",
+                "entity_value": "Investment Account",
+                "start_position": 0,
+                "end_position": 18
+            },
+            {
+                "entity_type": "ACCOUNTNUMBER",
+                "entity_value": "93147299",
+                "start_position": 39,
+                "end_position": 47
+            }
+        ]
+    },
+    {
+        "full_text": "Checking Ashley21's results. Can't access them at 217.219.210.125 anymore.",
+        "masked": "Checking [USERNAME]'s results. Can't access them at [IPV4] anymore.",
+        "spans": [
+            {
+                "entity_type": "USERNAME",
+                "entity_value": "Ashley21",
+                "start_position": 9,
+                "end_position": 17
+            },
+            {
+                "entity_type": "IPV4",
+                "entity_value": "217.219.210.125",
+                "start_position": 50,
+                "end_position": 65
+            }
+        ]
+    },
+    {
+        "full_text": "Arrange a call with our client who’s selling his property on N 7th Street. Make sure all legal papers are prepared before the meeting, and ensure the client understands the process and his legal obligations. Call him on the number ending with 0715923183215151.",
+        "masked": "Arrange a call with our client who’s selling his property on [STREET]. Make sure all legal papers are prepared before the meeting, and ensure the client understands the process and his legal obligations. Call him on the number ending with [MASKEDNUMBER].",
+        "spans": [
+            {
+                "entity_type": "STREET",
+                "entity_value": "N 7th Street",
+                "start_position": 61,
+                "end_position": 73
+            },
+            {
+                "entity_type": "MASKEDNUMBER",
+                "entity_value": "0715923183215151",
+                "start_position": 243,
+                "end_position": 259
+            }
+        ]
+    },
+    {
+        "full_text": "Dear Mrs. Oberbrunner, Your scheduled counselling session with career expert has been set for 6/22. Looking forward to see you.",
+        "masked": "Dear [PREFIX] [LASTNAME], Your scheduled counselling session with career expert has been set for [DATE]. Looking forward to see you.",
+        "spans": [
+            {
+                "entity_type": "PREFIX",
+                "entity_value": "Mrs.",
+                "start_position": 5,
+                "end_position": 9
+            },
+            {
+                "entity_type": "LASTNAME",
+                "entity_value": "Oberbrunner",
+                "start_position": 10,
+                "end_position": 21
+            },
+            {
+                "entity_type": "DATE",
+                "entity_value": "6/22",
+                "start_position": 94,
+                "end_position": 98
+            }
+        ]
+    },
+    {
+        "full_text": "Holistic Education has started embracing digital currencies. Ullrich - Daniel now accepts Barbados Dollar for payments.",
+        "masked": "Holistic Education has started embracing digital currencies. [COMPANYNAME] now accepts [CURRENCYNAME] for payments.",
+        "spans": [
+            {
+                "entity_type": "COMPANYNAME",
+                "entity_value": "Ullrich - Daniel",
+                "start_position": 61,
+                "end_position": 77
+            },
+            {
+                "entity_type": "CURRENCYNAME",
+                "entity_value": "Barbados Dollar",
+                "start_position": 90,
+                "end_position": 105
+            }
+        ]
+    },
+    {
+        "full_text": "Students, please be informed that new 79281-1741-compliant changes have been made to our Male school uniform policy. We expect your absolute adherence to ensure a disciplined environment for Metrics studies.",
+        "masked": "Students, please be informed that new [ZIPCODE]-compliant changes have been made to our [SEX] school uniform policy. We expect your absolute adherence to ensure a disciplined environment for [JOBAREA] studies.",
+        "spans": [
+            {
+                "entity_type": "ZIPCODE",
+                "entity_value": "79281-1741",
+                "start_position": 38,
+                "end_position": 48
+            },
+            {
+                "entity_type": "SEX",
+                "entity_value": "Male",
+                "start_position": 89,
+                "end_position": 93
+            },
+            {
+                "entity_type": "JOBAREA",
+                "entity_value": "Metrics",
+                "start_position": 191,
+                "end_position": 198
+            }
+        ]
+    },
+    {
+        "full_text": "To Ms. Katlynn VonRueden: having a high stress level affects work efficiency. We suggest you login to Ethyl.Casper52 and download knowledge material for free.",
+        "masked": "To [PREFIX] [FIRSTNAME] [LASTNAME]: having a high stress level affects work efficiency. We suggest you login to [USERNAME] and download knowledge material for free.",
+        "spans": [
+            {
+                "entity_type": "PREFIX",
+                "entity_value": "Ms.",
+                "start_position": 3,
+                "end_position": 6
+            },
+            {
+                "entity_type": "FIRSTNAME",
+                "entity_value": "Katlynn",
+                "start_position": 7,
+                "end_position": 14
+            },
+            {
+                "entity_type": "LASTNAME",
+                "entity_value": "VonRueden",
+                "start_position": 15,
+                "end_position": 24
+            },
+            {
+                "entity_type": "USERNAME",
+                "entity_value": "Ethyl.Casper52",
+                "start_position": 102,
+                "end_position": 116
+            }
+        ]
+    },
+    {
+        "full_text": "Hi Gerardo, we'll be conducting a training session on Life Skills Education. If interested, please transfer the course fee to our bank account IE58545903052894481818. Feel free to reach out for any questions.",
+        "masked": "Hi [FIRSTNAME], we'll be conducting a training session on Life Skills Education. If interested, please transfer the course fee to our bank account [IBAN]. Feel free to reach out for any questions.",
+        "spans": [
+            {
+                "entity_type": "FIRSTNAME",
+                "entity_value": "Gerardo",
+                "start_position": 3,
+                "end_position": 10
+            },
+            {
+                "entity_type": "IBAN",
+                "entity_value": "IE58545903052894481818",
+                "start_position": 143,
+                "end_position": 165
+            }
+        ]
+    },
+    {
+        "full_text": "Skyler, with the data from our Kentucky branch, it looks like the new work arrangement could create insecurity for some employees. Could you analyze how changes to the network (MAC Address - d5:94:6e:ca:4f:6e) can psychologically affect our employees?",
+        "masked": "[MIDDLENAME], with the data from our Kentucky branch, it looks like the new work arrangement could create insecurity for some employees. Could you analyze how changes to the network (MAC Address - [MAC]) can psychologically affect our employees?",
+        "spans": [
+            {
+                "entity_type": "MIDDLENAME",
+                "entity_value": "Skyler",
+                "start_position": 0,
+                "end_position": 6
+            },
+            {
+                "entity_type": "MAC",
+                "entity_value": "d5:94:6e:ca:4f:6e",
+                "start_position": 191,
+                "end_position": 208
+            }
+        ]
+    },
+    {
+        "full_text": "Dear Donny Kennedy Trantow, could you confirm the transactions made from account 48127681 as they are pertinent for a ongoing case in Fort Dan. Kindly send confirmation to Ethan_Fahey at Rogelio_Spinka@yahoo.com.",
+        "masked": "Dear [FIRSTNAME] [MIDDLENAME] [LASTNAME], could you confirm the transactions made from account [ACCOUNTNUMBER] as they are pertinent for a ongoing case in [CITY]. Kindly send confirmation to [USERNAME] at [EMAIL].",
+        "spans": [
+            {
+                "entity_type": "FIRSTNAME",
+                "entity_value": "Donny",
+                "start_position": 5,
+                "end_position": 10
+            },
+            {
+                "entity_type": "MIDDLENAME",
+                "entity_value": "Kennedy",
+                "start_position": 11,
+                "end_position": 18
+            },
+            {
+                "entity_type": "LASTNAME",
+                "entity_value": "Trantow",
+                "start_position": 19,
+                "end_position": 26
+            },
+            {
+                "entity_type": "ACCOUNTNUMBER",
+                "entity_value": "48127681",
+                "start_position": 81,
+                "end_position": 89
+            },
+            {
+                "entity_type": "CITY",
+                "entity_value": "Fort Dan",
+                "start_position": 134,
+                "end_position": 142
+            },
+            {
+                "entity_type": "USERNAME",
+                "entity_value": "Ethan_Fahey",
+                "start_position": 172,
+                "end_position": 183
+            },
+            {
+                "entity_type": "EMAIL",
+                "entity_value": "Rogelio_Spinka@yahoo.com",
+                "start_position": 187,
+                "end_position": 211
+            }
+        ]
+    },
+    {
+        "full_text": "I have observed a surge in cases in the Northwest region, particularly affecting the Female gender. This requires immediate attention. I have also noticed a correlation with 1 years old",
+        "masked": "I have observed a surge in cases in the [ORDINALDIRECTION] region, particularly affecting the [SEX] gender. This requires immediate attention. I have also noticed a correlation with [AGE]",
+        "spans": [
+            {
+                "entity_type": "ORDINALDIRECTION",
+                "entity_value": "Northwest",
+                "start_position": 40,
+                "end_position": 49
+            },
+            {
+                "entity_type": "SEX",
+                "entity_value": "Female",
+                "start_position": 85,
+                "end_position": 91
+            },
+            {
+                "entity_type": "AGE",
+                "entity_value": "1 years old",
+                "start_position": 174,
+                "end_position": 185
+            }
+        ]
+    },
+    {
+        "full_text": "Did you know your Female can play a vital role in clinical trials? Help us to better understand human health by joining our trials at address 989 Leora Gardens, Apt. 335.",
+        "masked": "Did you know your [SEX] can play a vital role in clinical trials? Help us to better understand human health by joining our trials at address [BUILDINGNUMBER] [STREET], [SECONDARYADDRESS].",
+        "spans": [
+            {
+                "entity_type": "SEX",
+                "entity_value": "Female",
+                "start_position": 18,
+                "end_position": 24
+            },
+            {
+                "entity_type": "BUILDINGNUMBER",
+                "entity_value": "989",
+                "start_position": 142,
+                "end_position": 145
+            },
+            {
+                "entity_type": "STREET",
+                "entity_value": "Leora Gardens",
+                "start_position": 146,
+                "end_position": 159
+            },
+            {
+                "entity_type": "SECONDARYADDRESS",
+                "entity_value": "Apt. 335",
+                "start_position": 161,
+                "end_position": 169
+            }
+        ]
+    },
+    {
+        "full_text": "Dear Casimer63, we noticed an unauthorized access attempt from d18f:bd5f:2416:d32c:5ad2:9ea3:1a1e:07b9 to our company's financial data. As a International Solutions Associate, please investigate the issue.",
+        "masked": "Dear [USERNAME], we noticed an unauthorized access attempt from [IPV6] to our company's financial data. As a [JOBTITLE], please investigate the issue.",
+        "spans": [
+            {
+                "entity_type": "USERNAME",
+                "entity_value": "Casimer63",
+                "start_position": 5,
+                "end_position": 14
+            },
+            {
+                "entity_type": "IPV6",
+                "entity_value": "d18f:bd5f:2416:d32c:5ad2:9ea3:1a1e:07b9",
+                "start_position": 63,
+                "end_position": 102
+            },
+            {
+                "entity_type": "JOBTITLE",
+                "entity_value": "International Solutions Associate",
+                "start_position": 141,
+                "end_position": 174
+            }
+        ]
+    },
+    {
+        "full_text": "As part of our continuous effort to modernise our vendor management system, we kindly ask you to update your payment details by adding an IBAN or Bitcoin address (DK3700674070017823 or 3uy8iKeoC8irRUKzF1WVoKdgacuZC6vkqF4) in our payment section. This will ensure faster transactions and reduce the number of delays related to financial transactions.",
+        "masked": "As part of our continuous effort to modernise our vendor management system, we kindly ask you to update your payment details by adding an IBAN or Bitcoin address ([IBAN] or [BITCOINADDRESS]) in our payment section. This will ensure faster transactions and reduce the number of delays related to financial transactions.",
+        "spans": [
+            {
+                "entity_type": "IBAN",
+                "entity_value": "DK3700674070017823",
+                "start_position": 163,
+                "end_position": 181
+            },
+            {
+                "entity_type": "BITCOINADDRESS",
+                "entity_value": "3uy8iKeoC8irRUKzF1WVoKdgacuZC6vkqF4",
+                "start_position": 185,
+                "end_position": 220
+            }
+        ]
+    },
+    {
+        "full_text": "\"Hermann, Ankunding and Mann's mentorship program will start on 17/11/1932. We've paired you, as a Assistant with a Cis mentee interested in administrative jobs. Feel free to reach out for more info.\"",
+        "masked": "\"[COMPANYNAME]'s mentorship program will start on [DOB]. We've paired you, as a [JOBTYPE] with a [GENDER] mentee interested in administrative jobs. Feel free to reach out for more info.\"",
+        "spans": [
+            {
+                "entity_type": "COMPANYNAME",
+                "entity_value": "Hermann, Ankunding and Mann",
+                "start_position": 1,
+                "end_position": 28
+            },
+            {
+                "entity_type": "DOB",
+                "entity_value": "17/11/1932",
+                "start_position": 64,
+                "end_position": 74
+            },
+            {
+                "entity_type": "JOBTYPE",
+                "entity_value": "Assistant",
+                "start_position": 99,
+                "end_position": 108
+            },
+            {
+                "entity_type": "GENDER",
+                "entity_value": "Cis",
+                "start_position": 116,
+                "end_position": 119
+            }
+        ]
+    },
+    {
+        "full_text": "\"Chase, our records show that the ethereum payment for the astronomy competition entry fee from 0xa2fabfcda981b2b5fdf8aaead79f84876b7f2bdf is not yet confirmed. Kindly settle it at your earliest convenience. - Ebert and Sons\"",
+        "masked": "\"[FIRSTNAME], our records show that the ethereum payment for the astronomy competition entry fee from [ETHEREUMADDRESS] is not yet confirmed. Kindly settle it at your earliest convenience. - [COMPANYNAME]\"",
+        "spans": [
+            {
+                "entity_type": "FIRSTNAME",
+                "entity_value": "Chase",
+                "start_position": 1,
+                "end_position": 6
+            },
+            {
+                "entity_type": "ETHEREUMADDRESS",
+                "entity_value": "0xa2fabfcda981b2b5fdf8aaead79f84876b7f2bdf",
+                "start_position": 96,
+                "end_position": 138
+            },
+            {
+                "entity_type": "COMPANYNAME",
+                "entity_value": "Ebert and Sons",
+                "start_position": 210,
+                "end_position": 224
+            }
+        ]
+    },
+    {
+        "full_text": "We’ve had breakthrough in diagnostic technology as per Consultant Nico Rath. The details can be accessed from https://vivid-processing.name. Please verify the system with the Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/3.1; .NET CLR 3.7.26850.4).",
+        "masked": "We’ve had breakthrough in diagnostic technology as per [JOBTYPE] [MIDDLENAME] [LASTNAME]. The details can be accessed from [URL]. Please verify the system with the [USERAGENT].",
+        "spans": [
+            {
+                "entity_type": "JOBTYPE",
+                "entity_value": "Consultant",
+                "start_position": 55,
+                "end_position": 65
+            },
+            {
+                "entity_type": "MIDDLENAME",
+                "entity_value": "Nico",
+                "start_position": 66,
+                "end_position": 70
+            },
+            {
+                "entity_type": "LASTNAME",
+                "entity_value": "Rath",
+                "start_position": 71,
+                "end_position": 75
+            },
+            {
+                "entity_type": "URL",
+                "entity_value": "https://vivid-processing.name",
+                "start_position": 110,
+                "end_position": 139
+            },
+            {
+                "entity_type": "USERAGENT",
+                "entity_value": "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/3.1; .NET CLR 3.7.26850.4)",
+                "start_position": 175,
+                "end_position": 261
+            }
+        ]
+    },
+    {
+        "full_text": "Upcoming holistic study tour to Royal Oak, Don managing logistics. Trip costs will be covered by school, use the card with issuer discover.",
+        "masked": "Upcoming holistic study tour to [CITY], [FIRSTNAME] managing logistics. Trip costs will be covered by school, use the card with issuer [CREDITCARDISSUER].",
+        "spans": [
+            {
+                "entity_type": "CITY",
+                "entity_value": "Royal Oak",
+                "start_position": 32,
+                "end_position": 41
+            },
+            {
+                "entity_type": "FIRSTNAME",
+                "entity_value": "Don",
+                "start_position": 43,
+                "end_position": 46
+            },
+            {
+                "entity_type": "CREDITCARDISSUER",
+                "entity_value": "discover",
+                "start_position": 130,
+                "end_position": 138
+            }
+        ]
+    },
+    {
+        "full_text": "Hi, this is Maximillian Jamie Brekke. I was born 6/69 and I live at Annabell Fort 8602 Suite 459, Valais. I want to apply for a therapy. My contact is Franz.Emmerich47@yahoo.com",
+        "masked": "Hi, this is [FIRSTNAME] [MIDDLENAME] [LASTNAME]. I was born [DOB] and I live at [STREET] [BUILDINGNUMBER] [SECONDARYADDRESS], [STATE]. I want to apply for a therapy. My contact is [EMAIL]",
+        "spans": [
+            {
+                "entity_type": "FIRSTNAME",
+                "entity_value": "Maximillian",
+                "start_position": 12,
+                "end_position": 23
+            },
+            {
+                "entity_type": "MIDDLENAME",
+                "entity_value": "Jamie",
+                "start_position": 24,
+                "end_position": 29
+            },
+            {
+                "entity_type": "LASTNAME",
+                "entity_value": "Brekke",
+                "start_position": 30,
+                "end_position": 36
+            },
+            {
+                "entity_type": "DOB",
+                "entity_value": "6/69",
+                "start_position": 49,
+                "end_position": 53
+            },
+            {
+                "entity_type": "STREET",
+                "entity_value": "Annabell Fort",
+                "start_position": 68,
+                "end_position": 81
+            },
+            {
+                "entity_type": "BUILDINGNUMBER",
+                "entity_value": "8602",
+                "start_position": 82,
+                "end_position": 86
+            },
+            {
+                "entity_type": "SECONDARYADDRESS",
+                "entity_value": "Suite 459",
+                "start_position": 87,
+                "end_position": 96
+            },
+            {
+                "entity_type": "STATE",
+                "entity_value": "Valais",
+                "start_position": 98,
+                "end_position": 104
+            },
+            {
+                "entity_type": "EMAIL",
+                "entity_value": "Franz.Emmerich47@yahoo.com",
+                "start_position": 151,
+                "end_position": 177
+            }
+        ]
+    },
+    {
+        "full_text": "Received your contribution to our education project. It was credited to IS259544850376600010576257 under account number 09419568. Together we can do more!",
+        "masked": "Received your contribution to our education project. It was credited to [IBAN] under account number [ACCOUNTNUMBER]. Together we can do more!",
+        "spans": [
+            {
+                "entity_type": "IBAN",
+                "entity_value": "IS259544850376600010576257",
+                "start_position": 72,
+                "end_position": 98
+            },
+            {
+                "entity_type": "ACCOUNTNUMBER",
+                "entity_value": "09419568",
+                "start_position": 120,
+                "end_position": 128
+            }
+        ]
+    },
+    {
+        "full_text": "After attending the IP workshop, we've identified a requirement to apply for patents. Can you guide us in this matter? Our Architect can be contacted at 0414.57824332.",
+        "masked": "After attending the IP workshop, we've identified a requirement to apply for patents. Can you guide us in this matter? Our [JOBTYPE] can be contacted at [PHONENUMBER].",
+        "spans": [
+            {
+                "entity_type": "JOBTYPE",
+                "entity_value": "Architect",
+                "start_position": 123,
+                "end_position": 132
+            },
+            {
+                "entity_type": "PHONENUMBER",
+                "entity_value": "0414.57824332",
+                "start_position": 153,
+                "end_position": 166
+            }
+        ]
+    },
+    {
+        "full_text": "Your request for special education resources was received. These materials have been sent to Suite 791, 81903-9309. Please, confirm their receipt.",
+        "masked": "Your request for special education resources was received. These materials have been sent to [SECONDARYADDRESS], [ZIPCODE]. Please, confirm their receipt.",
+        "spans": [
+            {
+                "entity_type": "SECONDARYADDRESS",
+                "entity_value": "Suite 791",
+                "start_position": 93,
+                "end_position": 102
+            },
+            {
+                "entity_type": "ZIPCODE",
+                "entity_value": "81903-9309",
+                "start_position": 104,
+                "end_position": 114
+            }
+        ]
+    },
+    {
+        "full_text": "Had an accident at Grant Street and 12733. At 4:26 AM, a WH40LLC hit me while walking, causing injuries. Need help.",
+        "masked": "Had an accident at [STREET] and [BUILDINGNUMBER]. At [TIME], a [VEHICLEVRM] hit me while walking, causing injuries. Need help.",
+        "spans": [
+            {
+                "entity_type": "STREET",
+                "entity_value": "Grant Street",
+                "start_position": 19,
+                "end_position": 31
+            },
+            {
+                "entity_type": "BUILDINGNUMBER",
+                "entity_value": "12733",
+                "start_position": 36,
+                "end_position": 41
+            },
+            {
+                "entity_type": "TIME",
+                "entity_value": "4:26 AM",
+                "start_position": 46,
+                "end_position": 53
+            },
+            {
+                "entity_type": "VEHICLEVRM",
+                "entity_value": "WH40LLC",
+                "start_position": 57,
+                "end_position": 64
+            }
+        ]
+    },
+    {
+        "full_text": "Looking for Dr. Davon, our records from July 15, 1930 show a scheduled chest X-ray due today. Could you confirm if patient from 76799 has already arrived?",
+        "masked": "Looking for Dr. [FIRSTNAME], our records from [DOB] show a scheduled chest X-ray due today. Could you confirm if patient from [ZIPCODE] has already arrived?",
+        "spans": [
+            {
+                "entity_type": "FIRSTNAME",
+                "entity_value": "Davon",
+                "start_position": 16,
+                "end_position": 21
+            },
+            {
+                "entity_type": "DOB",
+                "entity_value": "July 15, 1930",
+                "start_position": 40,
+                "end_position": 53
+            },
+            {
+                "entity_type": "ZIPCODE",
+                "entity_value": "76799",
+                "start_position": 128,
+                "end_position": 133
+            }
+        ]
+    },
+    {
+        "full_text": "We have collected data from Keeblerboro. Access the education policy reform data with credentials IP 96eb:ebdd:e3d7:86fc:e248:6a79:a771:e392 and password s6n53vCPxe7m.",
+        "masked": "We have collected data from [CITY]. Access the education policy reform data with credentials IP [IP] and password [PASSWORD].",
+        "spans": [
+            {
+                "entity_type": "CITY",
+                "entity_value": "Keeblerboro",
+                "start_position": 28,
+                "end_position": 39
+            },
+            {
+                "entity_type": "IP",
+                "entity_value": "96eb:ebdd:e3d7:86fc:e248:6a79:a771:e392",
+                "start_position": 101,
+                "end_position": 140
+            },
+            {
+                "entity_type": "PASSWORD",
+                "entity_value": "s6n53vCPxe7m",
+                "start_position": 154,
+                "end_position": 166
+            }
+        ]
+    },
+    {
+        "full_text": "Dr. River will be taking care of the palliative patients located at Suite 272. Adjust the schedule as needed.",
+        "masked": "Dr. [MIDDLENAME] will be taking care of the palliative patients located at [SECONDARYADDRESS]. Adjust the schedule as needed.",
+        "spans": [
+            {
+                "entity_type": "MIDDLENAME",
+                "entity_value": "River",
+                "start_position": 4,
+                "end_position": 9
+            },
+            {
+                "entity_type": "SECONDARYADDRESS",
+                "entity_value": "Suite 272",
+                "start_position": 68,
+                "end_position": 77
+            }
+        ]
+    },
+    {
+        "full_text": "\"Hello Miss, your property at Adele Park, South Odie has been evaluated at lei738355. It's located in Greater Manchester, Schleswig-Holstein.\"",
+        "masked": "\"Hello [PREFIX], your property at [STREET], [CITY] has been evaluated at [CURRENCYSYMBOL][AMOUNT]. It's located in [COUNTY], [STATE].\"",
+        "spans": [
+            {
+                "entity_type": "PREFIX",
+                "entity_value": "Miss",
+                "start_position": 7,
+                "end_position": 11
+            },
+            {
+                "entity_type": "STREET",
+                "entity_value": "Adele Park",
+                "start_position": 30,
+                "end_position": 40
+            },
+            {
+                "entity_type": "CITY",
+                "entity_value": "South Odie",
+                "start_position": 42,
+                "end_position": 52
+            },
+            {
+                "entity_type": "CURRENCYSYMBOL",
+                "entity_value": "lei",
+                "start_position": 75,
+                "end_position": 78
+            },
+            {
+                "entity_type": "AMOUNT",
+                "entity_value": "738355",
+                "start_position": 78,
+                "end_position": 84
+            },
+            {
+                "entity_type": "COUNTY",
+                "entity_value": "Greater Manchester",
+                "start_position": 102,
+                "end_position": 120
+            },
+            {
+                "entity_type": "STATE",
+                "entity_value": "Schleswig-Holstein",
+                "start_position": 122,
+                "end_position": 140
+            }
+        ]
+    },
+    {
+        "full_text": "Greetings Hillary, As you know, estate planning is crucial. With your job in Data, setting aside assets is paramount. Kindly get back to us.",
+        "masked": "Greetings [FIRSTNAME], As you know, estate planning is crucial. With your job in [JOBAREA], setting aside assets is paramount. Kindly get back to us.",
+        "spans": [
+            {
+                "entity_type": "FIRSTNAME",
+                "entity_value": "Hillary",
+                "start_position": 10,
+                "end_position": 17
+            },
+            {
+                "entity_type": "JOBAREA",
+                "entity_value": "Data",
+                "start_position": 77,
+                "end_position": 81
+            }
+        ]
+    },
+    {
+        "full_text": "Next meeting of Infrastructure literature club at Koch, Gerlach and Herzog is scheduled on 1974-09-15T16:06:47.770Z. Please confirm your attendance at Keshawn48@gmail.com.",
+        "masked": "Next meeting of [JOBAREA] literature club at [COMPANYNAME] is scheduled on [DATE]. Please confirm your attendance at [EMAIL].",
+        "spans": [
+            {
+                "entity_type": "JOBAREA",
+                "entity_value": "Infrastructure",
+                "start_position": 16,
+                "end_position": 30
+            },
+            {
+                "entity_type": "COMPANYNAME",
+                "entity_value": "Koch, Gerlach and Herzog",
+                "start_position": 50,
+                "end_position": 74
+            },
+            {
+                "entity_type": "DATE",
+                "entity_value": "1974-09-15T16:06:47.770Z",
+                "start_position": 91,
+                "end_position": 115
+            },
+            {
+                "entity_type": "EMAIL",
+                "entity_value": "Keshawn48@gmail.com",
+                "start_position": 151,
+                "end_position": 170
+            }
+        ]
+    },
+    {
+        "full_text": "Hello Miss Bergstrom-Schuppe, I would like to schedule an appointment for discussing my concerns related to my personality disorder. Can we arrange this for 3rd December?",
+        "masked": "Hello [PREFIX] [LASTNAME], I would like to schedule an appointment for discussing my concerns related to my personality disorder. Can we arrange this for [DATE]?",
+        "spans": [
+            {
+                "entity_type": "PREFIX",
+                "entity_value": "Miss",
+                "start_position": 6,
+                "end_position": 10
+            },
+            {
+                "entity_type": "LASTNAME",
+                "entity_value": "Bergstrom-Schuppe",
+                "start_position": 11,
+                "end_position": 28
+            },
+            {
+                "entity_type": "DATE",
+                "entity_value": "3rd December",
+                "start_position": 157,
+                "end_position": 169
+            }
+        ]
+    },
+    {
+        "full_text": "For more details about the scholarship provided by our university for Integration, please contact us at Suite 636. Use reference number 4805690419738918.",
+        "masked": "For more details about the scholarship provided by our university for [JOBAREA], please contact us at [SECONDARYADDRESS]. Use reference number [MASKEDNUMBER].",
+        "spans": [
+            {
+                "entity_type": "JOBAREA",
+                "entity_value": "Integration",
+                "start_position": 70,
+                "end_position": 81
+            },
+            {
+                "entity_type": "SECONDARYADDRESS",
+                "entity_value": "Suite 636",
+                "start_position": 104,
+                "end_position": 113
+            },
+            {
+                "entity_type": "MASKEDNUMBER",
+                "entity_value": "4805690419738918",
+                "start_position": 136,
+                "end_position": 152
+            }
+        ]
+    },
+    {
+        "full_text": "Hello, the psycho-oncology conference that was scheduled for 06/03/1938 in Neuchâtel has been cancelled due to concerns around public health safety.",
+        "masked": "Hello, the psycho-oncology conference that was scheduled for [DATE] in [STATE] has been cancelled due to concerns around public health safety.",
+        "spans": [
+            {
+                "entity_type": "DATE",
+                "entity_value": "06/03/1938",
+                "start_position": 61,
+                "end_position": 71
+            },
+            {
+                "entity_type": "STATE",
+                "entity_value": "Neuchâtel",
+                "start_position": 75,
+                "end_position": 84
+            }
+        ]
+    },
+    {
+        "full_text": "Patient Baron Taylor, DOB 1913-10-24T08:02:55.909Z, with SSN 379-77-1560, has given consent for release of medical records.",
+        "masked": "Patient [FIRSTNAME] [MIDDLENAME], DOB [DOB], with SSN [SSN], has given consent for release of medical records.",
+        "spans": [
+            {
+                "entity_type": "FIRSTNAME",
+                "entity_value": "Baron",
+                "start_position": 8,
+                "end_position": 13
+            },
+            {
+                "entity_type": "MIDDLENAME",
+                "entity_value": "Taylor",
+                "start_position": 14,
+                "end_position": 20
+            },
+            {
+                "entity_type": "DOB",
+                "entity_value": "1913-10-24T08:02:55.909Z",
+                "start_position": 26,
+                "end_position": 50
+            },
+            {
+                "entity_type": "SSN",
+                "entity_value": "379-77-1560",
+                "start_position": 61,
+                "end_position": 72
+            }
+        ]
+    },
+    {
+        "full_text": "We've taken note of your complaint regarding the doctor. Your details such as your minor daughter's 56 years old and vehicle VIN DNXP6ED5R2N028028 registered to the hospital have been securely noted and will remain confidential throughout this process.",
+        "masked": "We've taken note of your complaint regarding the doctor. Your details such as your minor daughter's [AGE] and vehicle VIN [VEHICLEVIN] registered to the hospital have been securely noted and will remain confidential throughout this process.",
+        "spans": [
+            {
+                "entity_type": "AGE",
+                "entity_value": "56 years old",
+                "start_position": 100,
+                "end_position": 112
+            },
+            {
+                "entity_type": "VEHICLEVIN",
+                "entity_value": "DNXP6ED5R2N028028",
+                "start_position": 129,
+                "end_position": 146
+            }
+        ]
+    },
+    {
+        "full_text": "Our VC platform is safe. It utilizes Mozilla/5.0 (X11; Linux i686; rv:8.3) Gecko/20100101 Firefox/8.3.2 and connects through an encrypted 4cb3:d344:fbb5:05ac:fda2:bcf5:0592:c1a1. Your privacy is of the utmost importance to us.",
+        "masked": "Our VC platform is safe. It utilizes [USERAGENT] and connects through an encrypted [IPV6]. Your privacy is of the utmost importance to us.",
+        "spans": [
+            {
+                "entity_type": "USERAGENT",
+                "entity_value": "Mozilla/5.0 (X11; Linux i686; rv:8.3) Gecko/20100101 Firefox/8.3.2",
+                "start_position": 37,
+                "end_position": 103
+            },
+            {
+                "entity_type": "IPV6",
+                "entity_value": "4cb3:d344:fbb5:05ac:fda2:bcf5:0592:c1a1",
+                "start_position": 138,
+                "end_position": 177
+            }
+        ]
+    },
+    {
+        "full_text": "There has been safety lapses in  51522 and 04448 locations. All reports have been directed to emails Vallie.Marks56@yahoo.com and Dalton.Runolfsson@gmail.com where Trenton and Toney will further investigate.",
+        "masked": "There has been safety lapses in  [ZIPCODE] and [ZIPCODE] locations. All reports have been directed to emails [EMAIL] and [EMAIL] where [FIRSTNAME] and [FIRSTNAME] will further investigate.",
+        "spans": [
+            {
+                "entity_type": "ZIPCODE",
+                "entity_value": "51522",
+                "start_position": 33,
+                "end_position": 38
+            },
+            {
+                "entity_type": "ZIPCODE",
+                "entity_value": "04448",
+                "start_position": 43,
+                "end_position": 48
+            },
+            {
+                "entity_type": "EMAIL",
+                "entity_value": "Vallie.Marks56@yahoo.com",
+                "start_position": 101,
+                "end_position": 125
+            },
+            {
+                "entity_type": "EMAIL",
+                "entity_value": "Dalton.Runolfsson@gmail.com",
+                "start_position": 130,
+                "end_position": 157
+            },
+            {
+                "entity_type": "FIRSTNAME",
+                "entity_value": "Trenton",
+                "start_position": 164,
+                "end_position": 171
+            },
+            {
+                "entity_type": "FIRSTNAME",
+                "entity_value": "Toney",
+                "start_position": 176,
+                "end_position": 181
+            }
+        ]
+    },
+    {
+        "full_text": "The laws of Securities can be complex. For example, take the company with EE898494308036340583, which is registered in Bellevue, Florida. They had to be very careful about dealing with cyber security following a recent hack attempt from an IP address 235.177.221.122.",
+        "masked": "The laws of Securities can be complex. For example, take the company with [IBAN], which is registered in [CITY], [STATE]. They had to be very careful about dealing with cyber security following a recent hack attempt from an IP address [IPV4].",
+        "spans": [
+            {
+                "entity_type": "IBAN",
+                "entity_value": "EE898494308036340583",
+                "start_position": 74,
+                "end_position": 94
+            },
+            {
+                "entity_type": "CITY",
+                "entity_value": "Bellevue",
+                "start_position": 119,
+                "end_position": 127
+            },
+            {
+                "entity_type": "STATE",
+                "entity_value": "Florida",
+                "start_position": 129,
+                "end_position": 136
+            },
+            {
+                "entity_type": "IPV4",
+                "entity_value": "235.177.221.122",
+                "start_position": 251,
+                "end_position": 266
+            }
+        ]
+    },
+    {
+        "full_text": "Due to a new security update, 356 74 8854 and 6341731761145531 can no longer be used to authenticate your account. Please use your EMR number for future appointments.",
+        "masked": "Due to a new security update, [SSN] and [MASKEDNUMBER] can no longer be used to authenticate your account. Please use your EMR number for future appointments.",
+        "spans": [
+            {
+                "entity_type": "SSN",
+                "entity_value": "356 74 8854",
+                "start_position": 30,
+                "end_position": 41
+            },
+            {
+                "entity_type": "MASKEDNUMBER",
+                "entity_value": "6341731761145531",
+                "start_position": 46,
+                "end_position": 62
+            }
+        ]
+    },
+    {
+        "full_text": "825 Cremin Fort Suite 957, Cheshire is our new location where we will be conducting a market research. Are our team members aware of the new location?",
+        "masked": "[BUILDINGNUMBER] [STREET] [SECONDARYADDRESS], [COUNTY] is our new location where we will be conducting a market research. Are our team members aware of the new location?",
+        "spans": [
+            {
+                "entity_type": "BUILDINGNUMBER",
+                "entity_value": "825",
+                "start_position": 0,
+                "end_position": 3
+            },
+            {
+                "entity_type": "STREET",
+                "entity_value": "Cremin Fort",
+                "start_position": 4,
+                "end_position": 15
+            },
+            {
+                "entity_type": "SECONDARYADDRESS",
+                "entity_value": "Suite 957",
+                "start_position": 16,
+                "end_position": 25
+            },
+            {
+                "entity_type": "COUNTY",
+                "entity_value": "Cheshire",
+                "start_position": 27,
+                "end_position": 35
+            }
+        ]
+    },
+    {
+        "full_text": "Quality Control reports some issues with the product. Our team from East Milo can discuss further, please reach out at 05 44-03-25 21.",
+        "masked": "Quality Control reports some issues with the product. Our team from [CITY] can discuss further, please reach out at [PHONENUMBER].",
+        "spans": [
+            {
+                "entity_type": "CITY",
+                "entity_value": "East Milo",
+                "start_position": 68,
+                "end_position": 77
+            },
+            {
+                "entity_type": "PHONENUMBER",
+                "entity_value": "05 44-03-25 21",
+                "start_position": 119,
+                "end_position": 133
+            }
+        ]
+    },
+    {
+        "full_text": "Hello, your transaction with Harris - Dicki associated with 6421787706555142 was successful. Welcome to our extended family.",
+        "masked": "Hello, your transaction with [COMPANYNAME] associated with [CREDITCARDNUMBER] was successful. Welcome to our extended family.",
+        "spans": [
+            {
+                "entity_type": "COMPANYNAME",
+                "entity_value": "Harris - Dicki",
+                "start_position": 29,
+                "end_position": 43
+            },
+            {
+                "entity_type": "CREDITCARDNUMBER",
+                "entity_value": "6421787706555142",
+                "start_position": 60,
+                "end_position": 76
+            }
+        ]
+    },
+    {
+        "full_text": "To all Engineers in 43934 area, Might I suggest incorporating digital skills into our educational leadership model?",
+        "masked": "To all [JOBTYPE]s in [ZIPCODE] area, Might I suggest incorporating digital skills into our educational leadership model?",
+        "spans": [
+            {
+                "entity_type": "JOBTYPE",
+                "entity_value": "Engineer",
+                "start_position": 7,
+                "end_position": 15
+            },
+            {
+                "entity_type": "ZIPCODE",
+                "entity_value": "43934",
+                "start_position": 20,
+                "end_position": 25
+            }
+        ]
+    },
+    {
+        "full_text": "Hello, Lambert! A single step today might lead to significant career shifts tomorrow. Gaining insight through a session with us might just be that step. Our counselor usually asks for the 3908656268910792 at the end of the registration process.",
+        "masked": "Hello, [FIRSTNAME]! A single step today might lead to significant career shifts tomorrow. Gaining insight through a session with us might just be that step. Our counselor usually asks for the [CREDITCARDNUMBER] at the end of the registration process.",
+        "spans": [
+            {
+                "entity_type": "FIRSTNAME",
+                "entity_value": "Lambert",
+                "start_position": 7,
+                "end_position": 14
+            },
+            {
+                "entity_type": "CREDITCARDNUMBER",
+                "entity_value": "3908656268910792",
+                "start_position": 188,
+                "end_position": 204
+            }
+        ]
+    },
+    {
+        "full_text": "\"We are planning to create a business tax profile for our IPs 132.81.28.129 and ec85:af0d:b3e3:08f4:dd7f:596a:f090:fe1e. Could you assist us with the legal implications and necessary paperwork?\"",
+        "masked": "\"We are planning to create a business tax profile for our IPs [IPV4] and [IPV6]. Could you assist us with the legal implications and necessary paperwork?\"",
+        "spans": [
+            {
+                "entity_type": "IPV4",
+                "entity_value": "132.81.28.129",
+                "start_position": 62,
+                "end_position": 75
+            },
+            {
+                "entity_type": "IPV6",
+                "entity_value": "ec85:af0d:b3e3:08f4:dd7f:596a:f090:fe1e",
+                "start_position": 80,
+                "end_position": 119
+            }
+        ]
+    },
+    {
+        "full_text": "\"Dagmar, please coordinate with our IT department to review the security protocol of our network. Our latest report showed potential vulnerability in the MAC 7a:18:8a:78:56:04 device. Consider this a high priority task.\"",
+        "masked": "\"[FIRSTNAME], please coordinate with our IT department to review the security protocol of our network. Our latest report showed potential vulnerability in the MAC [MAC] device. Consider this a high priority task.\"",
+        "spans": [
+            {
+                "entity_type": "FIRSTNAME",
+                "entity_value": "Dagmar",
+                "start_position": 1,
+                "end_position": 7
+            },
+            {
+                "entity_type": "MAC",
+                "entity_value": "7a:18:8a:78:56:04",
+                "start_position": 158,
+                "end_position": 175
+            }
+        ]
+    },
+    {
+        "full_text": "Web team, collaborate with Kaylah81 to analyse the disease trend in Swift Parkway over the past month.",
+        "masked": "[JOBAREA] team, collaborate with [USERNAME] to analyse the disease trend in [STREET] over the past month.",
+        "spans": [
+            {
+                "entity_type": "JOBAREA",
+                "entity_value": "Web",
+                "start_position": 0,
+                "end_position": 3
+            },
+            {
+                "entity_type": "USERNAME",
+                "entity_value": "Kaylah81",
+                "start_position": 27,
+                "end_position": 35
+            },
+            {
+                "entity_type": "STREET",
+                "entity_value": "Swift Parkway",
+                "start_position": 68,
+                "end_position": 81
+            }
+        ]
+    },
+    {
+        "full_text": "Dear team, a Male to female trans woman artist, username: Eleanore.Schimmel52 from 61.211.197.137 signed up for our digital arts workshop happening next month. Please make all necessary arrangements.",
+        "masked": "Dear team, a [GENDER] artist, username: [USERNAME] from [IPV4] signed up for our digital arts workshop happening next month. Please make all necessary arrangements.",
+        "spans": [
+            {
+                "entity_type": "GENDER",
+                "entity_value": "Male to female trans woman",
+                "start_position": 13,
+                "end_position": 39
+            },
+            {
+                "entity_type": "USERNAME",
+                "entity_value": "Eleanore.Schimmel52",
+                "start_position": 58,
+                "end_position": 77
+            },
+            {
+                "entity_type": "IPV4",
+                "entity_value": "61.211.197.137",
+                "start_position": 83,
+                "end_position": 97
+            }
+        ]
+    },
+    {
+        "full_text": "Dear Buford, we observe multiple sign-in attempts for your distance learning account from this IP 150.109.6.243.",
+        "masked": "Dear [FIRSTNAME], we observe multiple sign-in attempts for your distance learning account from this IP [IP].",
+        "spans": [
+            {
+                "entity_type": "FIRSTNAME",
+                "entity_value": "Buford",
+                "start_position": 5,
+                "end_position": 11
+            },
+            {
+                "entity_type": "IP",
+                "entity_value": "150.109.6.243",
+                "start_position": 98,
+                "end_position": 111
+            }
+        ]
+    },
+    {
+        "full_text": "I've arranged for a meeting with Grant County health officials in Suite Apt. 119. Let's prepare a presentation showcasing our infrastructure and patient care.",
+        "masked": "I've arranged for a meeting with [COUNTY] health officials in Suite [SECONDARYADDRESS]. Let's prepare a presentation showcasing our infrastructure and patient care.",
+        "spans": [
+            {
+                "entity_type": "COUNTY",
+                "entity_value": "Grant County",
+                "start_position": 33,
+                "end_position": 45
+            },
+            {
+                "entity_type": "SECONDARYADDRESS",
+                "entity_value": "Apt. 119",
+                "start_position": 72,
+                "end_position": 80
+            }
+        ]
+    },
+    {
+        "full_text": "Client: Megane Ward, our palliative care team will meet you as per the schedule on 25/09/1901 at your Apt. 115 location.",
+        "masked": "Client: [FIRSTNAME] [LASTNAME], our palliative care team will meet you as per the schedule on [DOB] at your [SECONDARYADDRESS] location.",
+        "spans": [
+            {
+                "entity_type": "FIRSTNAME",
+                "entity_value": "Megane",
+                "start_position": 8,
+                "end_position": 14
+            },
+            {
+                "entity_type": "LASTNAME",
+                "entity_value": "Ward",
+                "start_position": 15,
+                "end_position": 19
+            },
+            {
+                "entity_type": "DOB",
+                "entity_value": "25/09/1901",
+                "start_position": 83,
+                "end_position": 93
+            },
+            {
+                "entity_type": "SECONDARYADDRESS",
+                "entity_value": "Apt. 115",
+                "start_position": 102,
+                "end_position": 110
+            }
+        ]
+    },
+    {
+        "full_text": "Parents/Carers, sizing event for 54 years and under. Send your child's 204cm and book your slot.",
+        "masked": "Parents/Carers, sizing event for [AGE] and under. Send your child's [HEIGHT] and book your slot.",
+        "spans": [
+            {
+                "entity_type": "AGE",
+                "entity_value": "54 years",
+                "start_position": 33,
+                "end_position": 41
+            },
+            {
+                "entity_type": "HEIGHT",
+                "entity_value": "204cm",
+                "start_position": 71,
+                "end_position": 76
+            }
+        ]
+    },
+    {
+        "full_text": "Reminder, Jarod. Your child custody meeting is scheduled for 21/04/2006 at our offices in West New York, Manitoba.",
+        "masked": "Reminder, [FIRSTNAME]. Your child custody meeting is scheduled for [DATE] at our offices in [CITY], [STATE].",
+        "spans": [
+            {
+                "entity_type": "FIRSTNAME",
+                "entity_value": "Jarod",
+                "start_position": 10,
+                "end_position": 15
+            },
+            {
+                "entity_type": "DATE",
+                "entity_value": "21/04/2006",
+                "start_position": 61,
+                "end_position": 71
+            },
+            {
+                "entity_type": "CITY",
+                "entity_value": "West New York",
+                "start_position": 90,
+                "end_position": 103
+            },
+            {
+                "entity_type": "STATE",
+                "entity_value": "Manitoba",
+                "start_position": 105,
+                "end_position": 113
+            }
+        ]
+    },
+    {
+        "full_text": "Based on our safety assessment associated with your Ethereum address 0xd1bcbe80f5dd56af89277fd36774a2dc635a9dde, we've forwarded your case to our local crisis intervention team. They can provide the necessary support Marquise.",
+        "masked": "Based on our safety assessment associated with your Ethereum address [ETHEREUMADDRESS], we've forwarded your case to our local crisis intervention team. They can provide the necessary support [FIRSTNAME].",
+        "spans": [
+            {
+                "entity_type": "ETHEREUMADDRESS",
+                "entity_value": "0xd1bcbe80f5dd56af89277fd36774a2dc635a9dde",
+                "start_position": 69,
+                "end_position": 111
+            },
+            {
+                "entity_type": "FIRSTNAME",
+                "entity_value": "Marquise",
+                "start_position": 217,
+                "end_position": 225
+            }
+        ]
+    },
+    {
+        "full_text": "20. Send 0.5652m to Bitcoin address 3w71vqHtuMTEHW1RFDqkAqJyaifMEh, for services in Interactions.",
+        "masked": "20. Send [AMOUNT] to Bitcoin address [BITCOINADDRESS], for services in [JOBAREA].",
+        "spans": [
+            {
+                "entity_type": "AMOUNT",
+                "entity_value": "0.5652m",
+                "start_position": 9,
+                "end_position": 16
+            },
+            {
+                "entity_type": "BITCOINADDRESS",
+                "entity_value": "3w71vqHtuMTEHW1RFDqkAqJyaifMEh",
+                "start_position": 36,
+                "end_position": 66
+            },
+            {
+                "entity_type": "JOBAREA",
+                "entity_value": "Interactions",
+                "start_position": 84,
+                "end_position": 96
+            }
+        ]
+    },
+    {
+        "full_text": "Due to privacy regulations, we need to mask some phone numbers (9258975595688208) and SSN (75632877023). Let the IT department know if you need any assistance in handling private data.",
+        "masked": "Due to privacy regulations, we need to mask some phone numbers ([MASKEDNUMBER]) and SSN ([SSN]). Let the IT department know if you need any assistance in handling private data.",
+        "spans": [
+            {
+                "entity_type": "MASKEDNUMBER",
+                "entity_value": "9258975595688208",
+                "start_position": 64,
+                "end_position": 80
+            },
+            {
+                "entity_type": "SSN",
+                "entity_value": "75632877023",
+                "start_position": 91,
+                "end_position": 102
+            }
+        ]
+    },
+    {
+        "full_text": "Miss Avery, considering your progress in the therapy, we recommend you join an advanced group therapy session. The fee for the session is payable in New Leu. Kindly use our secure payment gateway for processing your payment using your credit card CVV 656.",
+        "masked": "[PREFIX] [MIDDLENAME], considering your progress in the therapy, we recommend you join an advanced group therapy session. The fee for the session is payable in [CURRENCYNAME]. Kindly use our secure payment gateway for processing your payment using your credit card CVV [CREDITCARDCVV].",
+        "spans": [
+            {
+                "entity_type": "PREFIX",
+                "entity_value": "Miss",
+                "start_position": 0,
+                "end_position": 4
+            },
+            {
+                "entity_type": "MIDDLENAME",
+                "entity_value": "Avery",
+                "start_position": 5,
+                "end_position": 10
+            },
+            {
+                "entity_type": "CURRENCYNAME",
+                "entity_value": "New Leu",
+                "start_position": 149,
+                "end_position": 156
+            },
+            {
+                "entity_type": "CREDITCARDCVV",
+                "entity_value": "656",
+                "start_position": 251,
+                "end_position": 254
+            }
+        ]
+    },
+    {
+        "full_text": "We have launched our new ultrasound diagnostic machine. An invoice of NZD873.85k will be issued to the following credit card: 2403093735349307.",
+        "masked": "We have launched our new ultrasound diagnostic machine. An invoice of [CURRENCYCODE][AMOUNT] will be issued to the following credit card: [MASKEDNUMBER].",
+        "spans": [
+            {
+                "entity_type": "CURRENCYCODE",
+                "entity_value": "NZD",
+                "start_position": 70,
+                "end_position": 73
+            },
+            {
+                "entity_type": "AMOUNT",
+                "entity_value": "873.85k",
+                "start_position": 73,
+                "end_position": 80
+            },
+            {
+                "entity_type": "MASKEDNUMBER",
+                "entity_value": "2403093735349307",
+                "start_position": 126,
+                "end_position": 142
+            }
+        ]
+    },
+    {
+        "full_text": "As a member of the Corporate Governance committee, we would like everyone to have access to the required documents. So, Korey, could you please upload all relevant governance materials to our intranet, accessible through the https://smooth-pomelo.name/?",
+        "masked": "As a member of the Corporate Governance committee, we would like everyone to have access to the required documents. So, [FIRSTNAME], could you please upload all relevant governance materials to our intranet, accessible through the [URL]?",
+        "spans": [
+            {
+                "entity_type": "FIRSTNAME",
+                "entity_value": "Korey",
+                "start_position": 120,
+                "end_position": 125
+            },
+            {
+                "entity_type": "URL",
+                "entity_value": "https://smooth-pomelo.name/",
+                "start_position": 225,
+                "end_position": 252
+            }
+        ]
+    },
+    {
+        "full_text": "Dear teachers, reminder for the faculty meeting on 7/78 at the library building 10829, Farrell Spring.",
+        "masked": "Dear teachers, reminder for the faculty meeting on [DATE] at the library building [BUILDINGNUMBER], [STREET].",
+        "spans": [
+            {
+                "entity_type": "DATE",
+                "entity_value": "7/78",
+                "start_position": 51,
+                "end_position": 55
+            },
+            {
+                "entity_type": "BUILDINGNUMBER",
+                "entity_value": "10829",
+                "start_position": 80,
+                "end_position": 85
+            },
+            {
+                "entity_type": "STREET",
+                "entity_value": "Farrell Spring",
+                "start_position": 87,
+                "end_position": 101
+            }
+        ]
+    },
+    {
+        "full_text": "Need your 086 9230 6023 to coordinate a meet regarding optimizations for our diagnostic tech. We're at 25192, it's to the Southwest.",
+        "masked": "Need your [PHONENUMBER] to coordinate a meet regarding optimizations for our diagnostic tech. We're at [BUILDINGNUMBER], it's to the [ORDINALDIRECTION].",
+        "spans": [
+            {
+                "entity_type": "PHONENUMBER",
+                "entity_value": "086 9230 6023",
+                "start_position": 10,
+                "end_position": 23
+            },
+            {
+                "entity_type": "BUILDINGNUMBER",
+                "entity_value": "25192",
+                "start_position": 103,
+                "end_position": 108
+            },
+            {
+                "entity_type": "ORDINALDIRECTION",
+                "entity_value": "Southwest",
+                "start_position": 122,
+                "end_position": 131
+            }
+        ]
+    },
+    {
+        "full_text": "Dear Anya, as part of our ongoing investigation into Industrial Health Psychology, we require you to gather and analyze information from employees with IPV4 addresses in the range of 187.248.74.54 to 116.81.230.24.",
+        "masked": "Dear [FIRSTNAME], as part of our ongoing investigation into Industrial Health Psychology, we require you to gather and analyze information from employees with IPV4 addresses in the range of [IPV4] to [IPV4].",
+        "spans": [
+            {
+                "entity_type": "FIRSTNAME",
+                "entity_value": "Anya",
+                "start_position": 5,
+                "end_position": 9
+            },
+            {
+                "entity_type": "IPV4",
+                "entity_value": "187.248.74.54",
+                "start_position": 183,
+                "end_position": 196
+            },
+            {
+                "entity_type": "IPV4",
+                "entity_value": "116.81.230.24",
+                "start_position": 200,
+                "end_position": 213
+            }
+        ]
+    },
+    {
+        "full_text": "In reviewing your employment application for the Principal Accounts Representative at our center, we noted your experience with healthcare policy. If still interested, use job code 2VGNZT05Y8mx to apply.",
+        "masked": "In reviewing your employment application for the [JOBTITLE] at our center, we noted your experience with healthcare policy. If still interested, use job code [PASSWORD] to apply.",
+        "spans": [
+            {
+                "entity_type": "JOBTITLE",
+                "entity_value": "Principal Accounts Representative",
+                "start_position": 49,
+                "end_position": 82
+            },
+            {
+                "entity_type": "PASSWORD",
+                "entity_value": "2VGNZT05Y8mx",
+                "start_position": 181,
+                "end_position": 193
+            }
+        ]
+    },
+    {
+        "full_text": "Tiffany, Goldner - Runte needs confirmation regarding your attendance for a meeting on 5/82. Call number 7927178637037986 for details.",
+        "masked": "[FIRSTNAME], [COMPANYNAME] needs confirmation regarding your attendance for a meeting on [DOB]. Call number [MASKEDNUMBER] for details.",
+        "spans": [
+            {
+                "entity_type": "FIRSTNAME",
+                "entity_value": "Tiffany",
+                "start_position": 0,
+                "end_position": 7
+            },
+            {
+                "entity_type": "COMPANYNAME",
+                "entity_value": "Goldner - Runte",
+                "start_position": 9,
+                "end_position": 24
+            },
+            {
+                "entity_type": "DOB",
+                "entity_value": "5/82",
+                "start_position": 87,
+                "end_position": 91
+            },
+            {
+                "entity_type": "MASKEDNUMBER",
+                "entity_value": "7927178637037986",
+                "start_position": 105,
+                "end_position": 121
+            }
+        ]
+    },
+    {
+        "full_text": "Patient Demarcus Rau with a secondary address of Apt. 489 and Post Code 85119-2571. Their connection details: User Agent: Mozilla/5.0 (Windows NT 5.0; rv:14.0) Gecko/20100101 Firefox/14.0.8 and phone IMEI: 64-818844-223828-4",
+        "masked": "Patient [FIRSTNAME] [LASTNAME] with a secondary address of [SECONDARYADDRESS] and Post Code [ZIPCODE]. Their connection details: User Agent: [USERAGENT] and phone IMEI: [PHONEIMEI]",
+        "spans": [
+            {
+                "entity_type": "FIRSTNAME",
+                "entity_value": "Demarcus",
+                "start_position": 8,
+                "end_position": 16
+            },
+            {
+                "entity_type": "LASTNAME",
+                "entity_value": "Rau",
+                "start_position": 17,
+                "end_position": 20
+            },
+            {
+                "entity_type": "SECONDARYADDRESS",
+                "entity_value": "Apt. 489",
+                "start_position": 49,
+                "end_position": 57
+            },
+            {
+                "entity_type": "ZIPCODE",
+                "entity_value": "85119-2571",
+                "start_position": 72,
+                "end_position": 82
+            },
+            {
+                "entity_type": "USERAGENT",
+                "entity_value": "Mozilla/5.0 (Windows NT 5.0; rv:14.0) Gecko/20100101 Firefox/14.0.8",
+                "start_position": 122,
+                "end_position": 189
+            },
+            {
+                "entity_type": "PHONEIMEI",
+                "entity_value": "64-818844-223828-4",
+                "start_position": 206,
+                "end_position": 224
+            }
+        ]
+    },
+    {
+        "full_text": "Use ﷼853.900k as a deposit for reservation. To be paid at 61696816.",
+        "masked": "Use [CURRENCYSYMBOL][AMOUNT] as a deposit for reservation. To be paid at [ACCOUNTNUMBER].",
+        "spans": [
+            {
+                "entity_type": "CURRENCYSYMBOL",
+                "entity_value": "﷼",
+                "start_position": 4,
+                "end_position": 5
+            },
+            {
+                "entity_type": "AMOUNT",
+                "entity_value": "853.900k",
+                "start_position": 5,
+                "end_position": 13
+            },
+            {
+                "entity_type": "ACCOUNTNUMBER",
+                "entity_value": "61696816",
+                "start_position": 58,
+                "end_position": 66
+            }
+        ]
+    },
+    {
+        "full_text": "We're a forward-thinking university in Henry County, Virginia looking to usher in the future of higher education. We think an experienced Liaison like August could provide valuable insights into our policy update.",
+        "masked": "We're a forward-thinking university in [COUNTY], [STATE] looking to usher in the future of higher education. We think an experienced [JOBTYPE] like [MIDDLENAME] could provide valuable insights into our policy update.",
+        "spans": [
+            {
+                "entity_type": "COUNTY",
+                "entity_value": "Henry County",
+                "start_position": 39,
+                "end_position": 51
+            },
+            {
+                "entity_type": "STATE",
+                "entity_value": "Virginia",
+                "start_position": 53,
+                "end_position": 61
+            },
+            {
+                "entity_type": "JOBTYPE",
+                "entity_value": "Liaison",
+                "start_position": 138,
+                "end_position": 145
+            },
+            {
+                "entity_type": "MIDDLENAME",
+                "entity_value": "August",
+                "start_position": 151,
+                "end_position": 157
+            }
+        ]
+    },
+    {
+        "full_text": "Record your daily health progress on our portal via https://winged-method.com, login with your unique 75611599693 and 4117940219039298.",
+        "masked": "Record your daily health progress on our portal via [URL], login with your unique [SSN] and [MASKEDNUMBER].",
+        "spans": [
+            {
+                "entity_type": "URL",
+                "entity_value": "https://winged-method.com",
+                "start_position": 52,
+                "end_position": 77
+            },
+            {
+                "entity_type": "SSN",
+                "entity_value": "75611599693",
+                "start_position": 102,
+                "end_position": 113
+            },
+            {
+                "entity_type": "MASKEDNUMBER",
+                "entity_value": "4117940219039298",
+                "start_position": 118,
+                "end_position": 134
+            }
+        ]
+    },
+    {
+        "full_text": "We have a new development in the Male patient case. It appears that her high-functioning consciousness post-brain damage might be related to her previous job as a Corporate Infrastructure Facilitator. We need to conduct additional tests to know more.",
+        "masked": "We have a new development in the [SEX] patient case. It appears that her high-functioning consciousness post-brain damage might be related to her previous job as a [JOBTITLE]. We need to conduct additional tests to know more.",
+        "spans": [
+            {
+                "entity_type": "SEX",
+                "entity_value": "Male",
+                "start_position": 33,
+                "end_position": 37
+            },
+            {
+                "entity_type": "JOBTITLE",
+                "entity_value": "Corporate Infrastructure Facilitator",
+                "start_position": 163,
+                "end_position": 199
+            }
+        ]
+    },
+    {
+        "full_text": "Vergie, please confirm if your email address Ransom.Littel1@hotmail.com can be used as the primary mode of communication for Parent-Teacher updates. If not, provide your preferred contact details to contact you.",
+        "masked": "[FIRSTNAME], please confirm if your email address [EMAIL] can be used as the primary mode of communication for Parent-Teacher updates. If not, provide your preferred contact details to contact you.",
+        "spans": [
+            {
+                "entity_type": "FIRSTNAME",
+                "entity_value": "Vergie",
+                "start_position": 0,
+                "end_position": 6
+            },
+            {
+                "entity_type": "EMAIL",
+                "entity_value": "Ransom.Littel1@hotmail.com",
+                "start_position": 45,
+                "end_position": 71
+            }
+        ]
+    },
+    {
+        "full_text": "Notify on 94-047934-593644-6 for physical examination of 36 years old marathon runner.",
+        "masked": "Notify on [PHONEIMEI] for physical examination of [AGE] marathon runner.",
+        "spans": [
+            {
+                "entity_type": "PHONEIMEI",
+                "entity_value": "94-047934-593644-6",
+                "start_position": 10,
+                "end_position": 28
+            },
+            {
+                "entity_type": "AGE",
+                "entity_value": "36 years old",
+                "start_position": 57,
+                "end_position": 69
+            }
+        ]
+    },
+    {
+        "full_text": "I spotted a potential patent infringement while auditing the web, and it's under this IP address: 21.43.7.22. I trust to hear your thoughts on how to react, Ms..",
+        "masked": "I spotted a potential patent infringement while auditing the web, and it's under this IP address: [IPV4]. I trust to hear your thoughts on how to react, [PREFIX].",
+        "spans": [
+            {
+                "entity_type": "IPV4",
+                "entity_value": "21.43.7.22",
+                "start_position": 98,
+                "end_position": 108
+            },
+            {
+                "entity_type": "PREFIX",
+                "entity_value": "Ms.",
+                "start_position": 157,
+                "end_position": 160
+            }
+        ]
+    },
+    {
+        "full_text": "Dear Yasmine_Toy, due technical issue, your 10 AM telemedicine appointment has been rescheduled.",
+        "masked": "Dear [USERNAME], due technical issue, your [TIME] telemedicine appointment has been rescheduled.",
+        "spans": [
+            {
+                "entity_type": "USERNAME",
+                "entity_value": "Yasmine_Toy",
+                "start_position": 5,
+                "end_position": 16
+            },
+            {
+                "entity_type": "TIME",
+                "entity_value": "10 AM",
+                "start_position": 44,
+                "end_position": 49
+            }
+        ]
+    },
+    {
+        "full_text": "Emergency response required for Einar. She fell and might have fractured her arm. She is located at [-45.6952,136.1611]. The EMTs at the nearby 93985 will reach soon.",
+        "masked": "Emergency response required for [FIRSTNAME]. She fell and might have fractured her arm. She is located at [NEARBYGPSCOORDINATE]. The EMTs at the nearby [ZIPCODE] will reach soon.",
+        "spans": [
+            {
+                "entity_type": "FIRSTNAME",
+                "entity_value": "Einar",
+                "start_position": 32,
+                "end_position": 37
+            },
+            {
+                "entity_type": "NEARBYGPSCOORDINATE",
+                "entity_value": "[-45.6952,136.1611]",
+                "start_position": 100,
+                "end_position": 119
+            },
+            {
+                "entity_type": "ZIPCODE",
+                "entity_value": "93985",
+                "start_position": 144,
+                "end_position": 149
+            }
+        ]
+    },
+    {
+        "full_text": "Thank you, Lilyan, for joining our Global Education platform with VIN ELURF1VAE6S133403. Your contribution in the educational vehicle segment is truly commendable.",
+        "masked": "Thank you, [FIRSTNAME], for joining our Global Education platform with VIN [VEHICLEVIN]. Your contribution in the educational vehicle segment is truly commendable.",
+        "spans": [
+            {
+                "entity_type": "FIRSTNAME",
+                "entity_value": "Lilyan",
+                "start_position": 11,
+                "end_position": 17
+            },
+            {
+                "entity_type": "VEHICLEVIN",
+                "entity_value": "ELURF1VAE6S133403",
+                "start_position": 70,
+                "end_position": 87
+            }
+        ]
+    },
+    {
+        "full_text": "We're carrying out system updates. Kindly update your qpZRCkD7NKtt at the earliest, Amya.",
+        "masked": "We're carrying out system updates. Kindly update your [PASSWORD] at the earliest, [FIRSTNAME].",
+        "spans": [
+            {
+                "entity_type": "PASSWORD",
+                "entity_value": "qpZRCkD7NKtt",
+                "start_position": 54,
+                "end_position": 66
+            },
+            {
+                "entity_type": "FIRSTNAME",
+                "entity_value": "Amya",
+                "start_position": 84,
+                "end_position": 88
+            }
+        ]
+    },
+    {
+        "full_text": "Hello Webster, we are reaching out to you about your upcoming treatment session on 8/07. Please confirm your availability.",
+        "masked": "Hello [FIRSTNAME], we are reaching out to you about your upcoming treatment session on [DOB]. Please confirm your availability.",
+        "spans": [
+            {
+                "entity_type": "FIRSTNAME",
+                "entity_value": "Webster",
+                "start_position": 6,
+                "end_position": 13
+            },
+            {
+                "entity_type": "DOB",
+                "entity_value": "8/07",
+                "start_position": 83,
+                "end_position": 87
+            }
+        ]
+    },
+    {
+        "full_text": "Dear Maud, Good job in educating the students. Your teaching methods in Directives are acknowledged and appreciated. There are few criticisms about the Guyana Dollar. Please look into it.",
+        "masked": "Dear [FIRSTNAME], Good job in educating the students. Your teaching methods in [JOBAREA] are acknowledged and appreciated. There are few criticisms about the [CURRENCY]. Please look into it.",
+        "spans": [
+            {
+                "entity_type": "FIRSTNAME",
+                "entity_value": "Maud",
+                "start_position": 5,
+                "end_position": 9
+            },
+            {
+                "entity_type": "JOBAREA",
+                "entity_value": "Directives",
+                "start_position": 72,
+                "end_position": 82
+            },
+            {
+                "entity_type": "CURRENCY",
+                "entity_value": "Guyana Dollar",
+                "start_position": 152,
+                "end_position": 165
+            }
+        ]
+    },
+    {
+        "full_text": "Hey Karlee! Your recorded exercises for the last week have earned you a $908033.55 discount on your next month's subscription. Keep up the great work!",
+        "masked": "Hey [FIRSTNAME]! Your recorded exercises for the last week have earned you a $[AMOUNT] discount on your next month's subscription. Keep up the great work!",
+        "spans": [
+            {
+                "entity_type": "FIRSTNAME",
+                "entity_value": "Karlee",
+                "start_position": 4,
+                "end_position": 10
+            },
+            {
+                "entity_type": "AMOUNT",
+                "entity_value": "908033.55",
+                "start_position": 73,
+                "end_position": 82
+            }
+        ]
+    },
+    {
+        "full_text": "Rosanna, confirm your 559-56-2243 for the medical survey according to your location at [37.1409,-151.5545]. This data is confidential for healthcare services.",
+        "masked": "[FIRSTNAME], confirm your [SSN] for the medical survey according to your location at [NEARBYGPSCOORDINATE]. This data is confidential for healthcare services.",
+        "spans": [
+            {
+                "entity_type": "FIRSTNAME",
+                "entity_value": "Rosanna",
+                "start_position": 0,
+                "end_position": 7
+            },
+            {
+                "entity_type": "SSN",
+                "entity_value": "559-56-2243",
+                "start_position": 22,
+                "end_position": 33
+            },
+            {
+                "entity_type": "NEARBYGPSCOORDINATE",
+                "entity_value": "[37.1409,-151.5545]",
+                "start_position": 87,
+                "end_position": 106
+            }
+        ]
+    },
+    {
+        "full_text": "Congrats! Your baby's healthcare coverage is now active under our 'New Mother New Life' program. Connect to c038:e31a:abfe:7867:afd4:ff4f:e2c2:e4e9 using the secure password 'jV3Oh9Fhooe0' for more information.",
+        "masked": "Congrats! Your baby's healthcare coverage is now active under our 'New Mother New Life' program. Connect to [IPV6] using the secure password '[PASSWORD]' for more information.",
+        "spans": [
+            {
+                "entity_type": "IPV6",
+                "entity_value": "c038:e31a:abfe:7867:afd4:ff4f:e2c2:e4e9",
+                "start_position": 108,
+                "end_position": 147
+            },
+            {
+                "entity_type": "PASSWORD",
+                "entity_value": "jV3Oh9Fhooe0",
+                "start_position": 175,
+                "end_position": 187
+            }
+        ]
+    },
+    {
+        "full_text": "Dear Destany, what is the ratio of special education teachers to students in Buckinghamshire?",
+        "masked": "Dear [FIRSTNAME], what is the ratio of special education teachers to students in [COUNTY]?",
+        "spans": [
+            {
+                "entity_type": "FIRSTNAME",
+                "entity_value": "Destany",
+                "start_position": 5,
+                "end_position": 12
+            },
+            {
+                "entity_type": "COUNTY",
+                "entity_value": "Buckinghamshire",
+                "start_position": 77,
+                "end_position": 92
+            }
+        ]
+    },
+    {
+        "full_text": "Hi there Bianka, would like to discuss the PR activities over a call. Can you please share a convenient date and time? You can reply me at Hugh.OHara@gmail.com or call me on +922-695.536-5774.",
+        "masked": "Hi there [FIRSTNAME], would like to discuss the PR activities over a call. Can you please share a convenient date and time? You can reply me at [EMAIL] or call me on [PHONENUMBER].",
+        "spans": [
+            {
+                "entity_type": "FIRSTNAME",
+                "entity_value": "Bianka",
+                "start_position": 9,
+                "end_position": 15
+            },
+            {
+                "entity_type": "EMAIL",
+                "entity_value": "Hugh.OHara@gmail.com",
+                "start_position": 139,
+                "end_position": 159
+            },
+            {
+                "entity_type": "PHONENUMBER",
+                "entity_value": "+922-695.536-5774",
+                "start_position": 174,
+                "end_position": 191
+            }
+        ]
+    },
+    {
+        "full_text": "We'll be running tests for the edu tool across different demographics. Location testing will be [-3.5494,-146.4238] that should simulate Southwest part of country.",
+        "masked": "We'll be running tests for the edu tool across different demographics. Location testing will be [NEARBYGPSCOORDINATE] that should simulate [ORDINALDIRECTION] part of country.",
+        "spans": [
+            {
+                "entity_type": "NEARBYGPSCOORDINATE",
+                "entity_value": "[-3.5494,-146.4238]",
+                "start_position": 96,
+                "end_position": 115
+            },
+            {
+                "entity_type": "ORDINALDIRECTION",
+                "entity_value": "Southwest",
+                "start_position": 137,
+                "end_position": 146
+            }
+        ]
+    },
+    {
+        "full_text": "The pharmacogenomic study, with special focus on 47 group, has highlighted some genetic variants for future research. Preliminary findings can be found on the internal network (access Mac 36:d5:53:ff:dc:58).",
+        "masked": "The pharmacogenomic study, with special focus on [AGE] group, has highlighted some genetic variants for future research. Preliminary findings can be found on the internal network (access Mac [MAC]).",
+        "spans": [
+            {
+                "entity_type": "AGE",
+                "entity_value": "47",
+                "start_position": 49,
+                "end_position": 51
+            },
+            {
+                "entity_type": "MAC",
+                "entity_value": "36:d5:53:ff:dc:58",
+                "start_position": 188,
+                "end_position": 205
+            }
+        ]
+    },
+    {
+        "full_text": "Marilyne our educational leadership program aligns with your vision. Clarify doubts at Zoom meeting with meeting id 7197894361626822.",
+        "masked": "[FIRSTNAME] our educational leadership program aligns with your vision. Clarify doubts at Zoom meeting with meeting id [MASKEDNUMBER].",
+        "spans": [
+            {
+                "entity_type": "FIRSTNAME",
+                "entity_value": "Marilyne",
+                "start_position": 0,
+                "end_position": 8
+            },
+            {
+                "entity_type": "MASKEDNUMBER",
+                "entity_value": "7197894361626822",
+                "start_position": 116,
+                "end_position": 132
+            }
+        ]
+    },
+    {
+        "full_text": "Regarding the Marketing, need to monitor 48-888747-917655-5, tracking and reporting on any vulnerabilities found at the 157.1.128.188.",
+        "masked": "Regarding the [JOBAREA], need to monitor [PHONEIMEI], tracking and reporting on any vulnerabilities found at the [IPV4].",
+        "spans": [
+            {
+                "entity_type": "JOBAREA",
+                "entity_value": "Marketing",
+                "start_position": 14,
+                "end_position": 23
+            },
+            {
+                "entity_type": "PHONEIMEI",
+                "entity_value": "48-888747-917655-5",
+                "start_position": 41,
+                "end_position": 59
+            },
+            {
+                "entity_type": "IPV4",
+                "entity_value": "157.1.128.188",
+                "start_position": 120,
+                "end_position": 133
+            }
+        ]
+    },
+    {
+        "full_text": "If you're interested in the student exchange program offered in your county, Shropshire, please send your contact details to the network - 2.127.162.227.",
+        "masked": "If you're interested in the student exchange program offered in your county, [COUNTY], please send your contact details to the network - [IPV4].",
+        "spans": [
+            {
+                "entity_type": "COUNTY",
+                "entity_value": "Shropshire",
+                "start_position": 77,
+                "end_position": 87
+            },
+            {
+                "entity_type": "IPV4",
+                "entity_value": "2.127.162.227",
+                "start_position": 139,
+                "end_position": 152
+            }
+        ]
+    },
+    {
+        "full_text": "My financial situation had been a little tough this semester. The transaction to the university account had been a fuss. Eventually, I had to use the transaction method of Ethereum 0xb9292929e4b9e43d9abae9673bd45ed25dfe8bf5 for the first time under Orie's guidance.",
+        "masked": "My financial situation had been a little tough this semester. The transaction to the university account had been a fuss. Eventually, I had to use the transaction method of Ethereum [ETHEREUMADDRESS] for the first time under [FIRSTNAME]'s guidance.",
+        "spans": [
+            {
+                "entity_type": "ETHEREUMADDRESS",
+                "entity_value": "0xb9292929e4b9e43d9abae9673bd45ed25dfe8bf5",
+                "start_position": 181,
+                "end_position": 223
+            },
+            {
+                "entity_type": "FIRSTNAME",
+                "entity_value": "Orie",
+                "start_position": 249,
+                "end_position": 253
+            }
+        ]
+    },
+    {
+        "full_text": "\"Gertrude, at exactly 10 PM today, we detected an unauthorized device with MAC address fe:52:c2:2d:7c:2b trying to connect to the school's network. Can you check?\"",
+        "masked": "\"[FIRSTNAME], at exactly [TIME] today, we detected an unauthorized device with MAC address [MAC] trying to connect to the school's network. Can you check?\"",
+        "spans": [
+            {
+                "entity_type": "FIRSTNAME",
+                "entity_value": "Gertrude",
+                "start_position": 1,
+                "end_position": 9
+            },
+            {
+                "entity_type": "TIME",
+                "entity_value": "10 PM",
+                "start_position": 22,
+                "end_position": 27
+            },
+            {
+                "entity_type": "MAC",
+                "entity_value": "fe:52:c2:2d:7c:2b",
+                "start_position": 87,
+                "end_position": 104
+            }
+        ]
+    },
+    {
+        "full_text": "Dear Cora, your profile indicates your employer's job title as Regional Functionality Strategist. Is this correct?",
+        "masked": "Dear [FIRSTNAME], your profile indicates your employer's job title as [JOBTITLE]. Is this correct?",
+        "spans": [
+            {
+                "entity_type": "FIRSTNAME",
+                "entity_value": "Cora",
+                "start_position": 5,
+                "end_position": 9
+            },
+            {
+                "entity_type": "JOBTITLE",
+                "entity_value": "Regional Functionality Strategist",
+                "start_position": 63,
+                "end_position": 96
+            }
+        ]
+    },
+    {
+        "full_text": "Hi Kai, don't forget to implement the updated security protocol from IP: 4f51:d8d1:aad6:6ac5:b95e:6bbc:c8ff:a45c in securing our early childhood education resources.",
+        "masked": "Hi [MIDDLENAME], don't forget to implement the updated security protocol from IP: [IP] in securing our early childhood education resources.",
+        "spans": [
+            {
+                "entity_type": "MIDDLENAME",
+                "entity_value": "Kai",
+                "start_position": 3,
+                "end_position": 6
+            },
+            {
+                "entity_type": "IP",
+                "entity_value": "4f51:d8d1:aad6:6ac5:b95e:6bbc:c8ff:a45c",
+                "start_position": 73,
+                "end_position": 112
+            }
+        ]
+    },
+    {
+        "full_text": "The healthcare accessibility index in 34460 has unfortunately decreased. Is this causing any issues? Kindly report by using the 6001749718761521 on our website.",
+        "masked": "The healthcare accessibility index in [ZIPCODE] has unfortunately decreased. Is this causing any issues? Kindly report by using the [MASKEDNUMBER] on our website.",
+        "spans": [
+            {
+                "entity_type": "ZIPCODE",
+                "entity_value": "34460",
+                "start_position": 38,
+                "end_position": 43
+            },
+            {
+                "entity_type": "MASKEDNUMBER",
+                "entity_value": "6001749718761521",
+                "start_position": 128,
+                "end_position": 144
+            }
+        ]
+    },
+    {
+        "full_text": "Hi, I'm Coy from the campus student training team. We respect your privacy and we will not ask for 18407 or 75688434031 in any of our training programs.",
+        "masked": "Hi, I'm [FIRSTNAME] from the campus student training team. We respect your privacy and we will not ask for [ZIPCODE] or [SSN] in any of our training programs.",
+        "spans": [
+            {
+                "entity_type": "FIRSTNAME",
+                "entity_value": "Coy",
+                "start_position": 8,
+                "end_position": 11
+            },
+            {
+                "entity_type": "ZIPCODE",
+                "entity_value": "18407",
+                "start_position": 99,
+                "end_position": 104
+            },
+            {
+                "entity_type": "SSN",
+                "entity_value": "75688434031",
+                "start_position": 108,
+                "end_position": 119
+            }
+        ]
+    },
+    {
+        "full_text": "For our next vaccination campaign, Arlo will lead the team to the zone at the GPS coordinates [-78.0443,-6.1007]. Do not forget to check in and out with her.",
+        "masked": "For our next vaccination campaign, [FIRSTNAME] will lead the team to the zone at the GPS coordinates [NEARBYGPSCOORDINATE]. Do not forget to check in and out with her.",
+        "spans": [
+            {
+                "entity_type": "FIRSTNAME",
+                "entity_value": "Arlo",
+                "start_position": 35,
+                "end_position": 39
+            },
+            {
+                "entity_type": "NEARBYGPSCOORDINATE",
+                "entity_value": "[-78.0443,-6.1007]",
+                "start_position": 94,
+                "end_position": 112
+            }
+        ]
+    },
+    {
+        "full_text": "Difficult to prolong trial for 42462765 with failing health. Agent to decide via clinical consensus.",
+        "masked": "Difficult to prolong trial for [ACCOUNTNUMBER] with failing health. [JOBTYPE] to decide via clinical consensus.",
+        "spans": [
+            {
+                "entity_type": "ACCOUNTNUMBER",
+                "entity_value": "42462765",
+                "start_position": 31,
+                "end_position": 39
+            },
+            {
+                "entity_type": "JOBTYPE",
+                "entity_value": "Agent",
+                "start_position": 61,
+                "end_position": 66
+            }
+        ]
     }
 ]
